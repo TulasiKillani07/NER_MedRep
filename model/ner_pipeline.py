@@ -45,7 +45,9 @@ def load_pipeline():
     - If trained model exists: load it and add EntityRuler as fallback
     - If no trained model yet: use base model + EntityRuler only
     """
-    if MODEL_PATH.exists() and any(MODEL_PATH.iterdir()):
+    # Check if trained model exists (meta.json is the key file)
+    model_meta = MODEL_PATH / "meta.json"
+    if model_meta.exists():
         logger.info("Loading trained model from disk")
         nlp = spacy.load(MODEL_PATH)
     else:
