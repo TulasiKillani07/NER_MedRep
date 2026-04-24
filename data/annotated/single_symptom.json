@@ -1,0 +1,5985 @@
+[
+  {
+    "text": "patient presents with fever",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "complains of severe cough",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 19,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 20,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "the patient has mild fever",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 20,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 21,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am having back pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports fatigue since 3 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 36,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "c/o vomiting since yesterday",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 28,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "i have been having dizziness",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 19,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies chest pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no fever noted",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 3,
+        "end": 8,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "suffering from acute diarrhea",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 20,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have nausea from 2 days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 13,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 25,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient has chronic constipation",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 19,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 20,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "c/o mild itching over body",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 8,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 9,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have swelling in my leg",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with acute shortness of breath",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 26,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 27,
+        "end": 46,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am feeling very weak since morning",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 20,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 36,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o palpitations for 1 week",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 27,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of severe joint pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 27,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 28,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have rash on my arms",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has high fever since 2 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 16,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 17,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 35,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "c/o burning sensation while urinating",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have been coughing for 5 days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 31,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient reports loss of appetite",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have severe stomach pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 13,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 14,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "this patient from arbin pharma territory has been reporting headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 59,
+        "end": 67,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "multiple patients in our zone complaining of fatigue",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 45,
+        "end": 52,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "doctor feedback from clinic shows high incidence of fever",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 52,
+        "end": 57,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patients on metformin reporting nausea",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 32,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "adverse event reported: severe vomiting",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "post dose observation shows mild dizziness",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 28,
+        "end": 32,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 33,
+        "end": 42,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient on amlodipine c/o swelling in feet",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 25,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have had fever for the past 4 days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 10,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 36,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient has mild rash since 1 week",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 16,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 17,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 34,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "c/o insomnia for 2 weeks",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 11,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 16,
+        "end": 23,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "i cannot sleep since last week",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 2,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 30,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient has moderate bloating",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have heartburn after meals",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports night sweats for 3 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 38,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "i have been having chills since yesterday",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 19,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 41,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "c/o severe ear pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 10,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 11,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has blurred vision",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have numbness in my hands",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of tingling in feet",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "c/o mild toothache since 2 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 8,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 9,
+        "end": 18,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 31,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "i have eye pain from this morning",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 33,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient has acute anxiety",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 17,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 18,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel very anxious since last month",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 19,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 36,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient reports weight loss over 2 months",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 41,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "i have been sweating a lot since 3 days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 39,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "c/o moderate indigestion",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 13,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has nasal congestion",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have runny nose since morning",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 31,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with sore throat for 3 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 31,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 43,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "i have mild body ache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 12,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o severe muscle pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 11,
+        "end": 17,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 18,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have abdominal pain since 2 days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 34,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient has high bp",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have low bp since yesterday",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 13,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 29,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient reports severe depression",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 21,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 22,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have been feeling depressed for 2 weeks",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 20,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 41,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "c/o mild breathlessness on exertion",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 8,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 9,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has chronic fatigue",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 19,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 20,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel tired all the time",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has moderate back pain since 1 week",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 21,
+        "end": 30,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 37,
+        "end": 43,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "i have pain in my lower back",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o severe vomiting since 2 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 11,
+        "end": 17,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 18,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 39,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "i have been throwing up since last night",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 40,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient has mild swelling in ankle",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 16,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 17,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have itching all over my body",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports acute diarrhea for 2 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 20,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 40,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "i have loose motions from yesterday",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 35,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient has moderate chest pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 21,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have pain in my chest",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o severe headache for 3 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 11,
+        "end": 17,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 18,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 37,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "my head is paining since morning",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 3,
+        "end": 7,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 32,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient has mild cough",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 16,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 17,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have dry cough since 4 days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 22,
+        "end": 28,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient reports moderate fever",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 24,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have high temperature since 2 days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 36,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient has severe knee pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 18,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 19,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have pain in my right knee",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o mild nausea after meals",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 11,
+        "end": 15,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 16,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel like vomiting since morning",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 34,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient has moderate joint pain since 1 week",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 21,
+        "end": 31,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 38,
+        "end": 44,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "i have pain in my joints",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports mild shortness of breath",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 19,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 20,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i cannot breathe properly",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 2,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has severe rash on back",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 18,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 19,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have red spots on my skin",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o moderate dizziness since 2 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 11,
+        "end": 19,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 20,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 42,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "i feel dizzy when i stand up",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has mild weakness in legs",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 16,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 17,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel very weak today",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports severe palpitations",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 21,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 22,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "my heart is racing since last night",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 3,
+        "end": 8,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 35,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient has moderate bloating after food",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have gas and acidity",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 10,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 15,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o mild fever since 3 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 11,
+        "end": 15,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 16,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 34,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "i have been having fever from past few days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 19,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 43,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of nausea",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel dizzy",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing fatigue",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports vomiting",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have diarrhea",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "suffering from constipation",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has rash",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice swelling",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 9,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with itching",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have numbness",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing tingling",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of tremor",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel weakness",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has confusion",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i experience palpitations",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "suffering from insomnia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports sweating",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have chills",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing blurred vision",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of hearing loss",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have tinnitus",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with vertigo",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel nauseous",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing bloating",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has hiccups",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have heartburn",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "suffering from indigestion",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports belching",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have cramps",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing spasms",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of stiffness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel soreness",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has tenderness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have bruising",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing bleeding",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports discharge",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have lesions",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with ulcers",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice lumps",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 9,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing nodules",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of masses",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have growths",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has inflammation",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel irritation",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing redness",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports warmth",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have discoloration",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "suffering from pallor",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of jaundice",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have cyanosis",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with edema",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice distension",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 9,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing rigidity",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has atrophy",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have hypertrophy",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of deformity",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel asymmetry",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing contracture",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports ankylosis",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have subluxation",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has dislocation",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice instability",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 9,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing laxity",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of clicking",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have popping",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with grinding",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel crepitus",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing snapping",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports locking",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have catching",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has giving way",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice buckling",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 9,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing limping",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of dragging",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have shuffling",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with waddling",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel unsteadiness",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing imbalance",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports falling",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have stumbling",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has tripping",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice slipping",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 9,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing sliding",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of dropping",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have difficulty walking",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with difficulty standing",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 41,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel difficulty sitting",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing difficulty lying",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports difficulty bending",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have difficulty reaching",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has difficulty gripping",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice difficulty holding",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 9,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing difficulty lifting",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of difficulty carrying",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have difficulty pushing",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with difficulty pulling",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have spasms",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have itching",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice bleeding",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 9,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports dizziness",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 16,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i developed weight loss",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has rash",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with vomiting",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 22,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i developed discharge",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing fever",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel spasms",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has sob",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i developed cramps",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice numbness",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 9,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports weight loss",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 16,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "suffering from chest pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 15,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice seizures",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 9,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "suffering from soreness",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of dizziness",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with muscle pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 22,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel itching",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have rash",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of joint pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing insomnia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with fever",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 22,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel spasms",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice nausea",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 9,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of abdominal pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice diarrhea",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 9,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have diarrhea",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i developed nausea",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "suffering from heartburn",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i developed jaundice",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports bleeding",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice diarrhea",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 9,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel chest pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with swelling",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 22,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have burning",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with rash",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice redness",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 9,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing jaundice",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing rigidity",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i developed insomnia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have palpitations",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports palpitations",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 16,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 16,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have blurred vision",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of lesions",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports lesions",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 16,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of bleeding",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing burning",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel bruising",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have loss of appetite",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i developed redness",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice edema",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 9,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice hearing loss",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 9,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has rigidity",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with tremor",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing heartburn",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel nausea",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing hearing loss",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of nausea",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have inflammation",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i developed nausea",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has constipation",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel cramps",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 16,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i developed headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of weight loss",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "suffering from seizures",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports spasms",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 16,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "suffering from muscle pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of heartburn",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has tinnitus",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel tinnitus",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports loss of appetite",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i developed constipation",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with discharge",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 22,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports rigidity",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of fever",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have bleeding",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have edema",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "suffering from tinnitus",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel confusion",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel constipation",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice constipation",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 9,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "suffering from confusion",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 15,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing fatigue",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel sweating",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice chest pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 9,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i developed nausea",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i developed inflammation",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i developed atrophy",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i developed tingling",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports inflammation",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports loss of appetite",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 16,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 22,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has fever",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "suffering from chills",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports edema",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 16,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i developed sweating",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing loss of appetite",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "suffering from pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel heartburn",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has pallor",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of cough",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of tinnitus",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports pallor",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 16,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has vertigo",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing confusion",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "suffering from fever",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has weakness",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports bruising",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have vertigo",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel cough",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports rigidity",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i developed fatigue",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing dizziness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "suffering from bruising",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "suffering from dizziness",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice loss of appetite",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 9,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with fever",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 22,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of seizures",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have irritation",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing seizures",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice edema",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 9,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports bruising",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel redness",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am having sweating",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "complaining of pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i developed urgency",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have insomnia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i suffer from constipation",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 14,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of dysuria",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient experiencing stridor",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with frequency",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 22,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient experiencing weakness",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i suffer from pallor",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 14,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice dysmenorrhea",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 9,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am having dizziness",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with hemoptysis",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "complaining of stridor",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i developed irritation",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient experiencing nausea",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has hoarseness",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i suffer from seizures",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 14,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "suffering from burning",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with jaundice",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "suffering from chills",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 15,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel bleeding",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i suffer from dehydration",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 14,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "complaining of tinnitus",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have palpitations",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of tremor",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have incontinence",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports wheezing",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am having fatigue",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i developed dysphagia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am having seizures",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i developed stridor",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am having palpitations",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i developed stiffness",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has redness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with retention",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 22,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel dysphagia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "suffering from nausea",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing back pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing back pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i developed chills",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient experiencing muscle pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have muscle pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i suffer from bruising",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 14,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i developed rash",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i suffer from incontinence",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 14,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am having frequency",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with tremor",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 22,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice numbness",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 9,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing loss of appetite",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with urgency",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 22,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing cramps",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have dehydration",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i developed vomiting",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "complaining of lesions",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has palpitations",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "suffering from redness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have fever",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing tremor",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient mentions stridor",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 17,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice chest pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 9,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel palpitations",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has stridor",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am having phonophobia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "suffering from stiffness",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with stiffness",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i suffer from stiffness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 14,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i experience back pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of spasms",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i experience dysmenorrhea",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing tingling",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 16,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing rash",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with hoarseness",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 22,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient mentions heartburn",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 17,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "complaining of vertigo",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient describes tingling",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient mentions dysuria",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 17,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel cough",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with soreness",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of constipation",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice amenorrhea",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 9,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient experiencing heartburn",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice cramps",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 9,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i experience hearing loss",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient describes blurred vision",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 18,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i developed hemoptysis",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports constipation",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 16,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient experiencing soreness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i experience sweating",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i developed cramps",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of amenorrhea",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am having back pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice burning",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 9,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with soreness",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 22,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i suffer from hoarseness",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i observe vomiting",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 10,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have discharge",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient notes constipation",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 14,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient experiencing muscle pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i experience vertigo",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "complaining of hemoptysis",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of bleeding",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i observe weight loss",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 10,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i developed dizziness",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i experience heartburn",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient notes numbness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 14,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice back pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 9,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with tremor",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient experiencing sob",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient describes bleeding",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i observe sob",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 10,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel chills",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have nausea",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am having chills",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i developed urgency",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient experiencing constipation",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has dysuria",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i developed constipation",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient mentions irritation",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 17,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports soreness",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i suffer from allodynia",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 14,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have atrophy",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient describes diarrhea",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient notes jaundice",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 14,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have inflammation",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with constipation",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient notes vertigo",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 14,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient describes muscle pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 18,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i suffer from stiffness",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 14,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i experience muscle pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i experience nausea",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel retention",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i observe dysphagia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 10,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "complaining of irritation",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient notes burning",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 14,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i suffer from nocturia",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 14,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i experience tingling",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient notes inflammation",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 14,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i experience heartburn",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i developed frequency",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing vomiting",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel weakness",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i observe syncope",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 10,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing palpitations",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports abdominal pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i developed dizziness",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports back pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 16,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient mentions weakness",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 17,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient notes insomnia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 14,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel vomiting",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have urgency",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have soreness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient notes frequency",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 14,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i observe dysphagia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 10,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i developed numbness",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with presyncope",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 22,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have sweating",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with soreness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice stiffness",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 9,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i experience lesions",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am having bruising",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with sob",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "suffering from stridor",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient experiencing presyncope",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient notes weight loss",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 14,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel hearing loss",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient mentions tingling",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 17,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient mentions cough",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 17,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i suffer from joint pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am having polyuria",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient mentions syncope",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 17,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice diplopia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 9,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient mentions nausea",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 17,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am having dysmenorrhea",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of tingling",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i observe diplopia",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 10,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient describes dysphagia",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 18,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has abdominal pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i developed irritation",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of retention",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing urgency",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i observe urgency",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 10,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  }
+]

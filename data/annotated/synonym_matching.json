@@ -1,0 +1,6682 @@
+[
+  {
+    "text": "i have tummy ache since 2 days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 30,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o belly pain and nausea",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have running nose and blocked nose",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 19,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports stuffy nose for 3 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 38,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "i have high temp since yesterday",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 32,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o high temperature and chills",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am throwing up since morning",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 5,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 30,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient reports puking for 2 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 33,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "i have loose motions from yesterday",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 35,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o loose stools and stomach pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 41,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have breathlessness when walking",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports difficulty breathing for 1 week",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 36,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 41,
+        "end": 47,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "i cant breathe properly since 3 days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 2,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 36,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o trouble breathing and chest pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 44,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel very tired all the time",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports tiredness and weakness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am exhausted since last week",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 5,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 30,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o exhaustion and no energy",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel weak and dizzy",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 16,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports feeling weak for 2 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 39,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "my head is spinning since morning",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 3,
+        "end": 19,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 33,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o head rush and nausea",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have itchy skin all over body",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports itching and rash",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have skin rash on my arms",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o red spots and itching",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have bumps on skin since 2 days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 33,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "my heart is racing since last night",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 3,
+        "end": 18,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 35,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient reports heart pounding and anxiety",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 30,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 35,
+        "end": 42,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have fast heartbeat for 1 hour",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 32,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o acidity and gas",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have acid reflux after meals",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports gassy feeling and bloating",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 42,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am not sleeping well for 1 week",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 5,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 33,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o cant sleep and fatigue",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i cannot sleep since 3 days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 2,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 27,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient reports trouble sleeping for 2 weeks",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 32,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 37,
+        "end": 44,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "i have bp high since yesterday",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 30,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o bp low and dizziness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 18,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have sugar high for 2 days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 22,
+        "end": 28,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient reports sugar low and weakness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mr visit shows patients with tummy pain and vomiting",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 29,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 52,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "field report indicates high temp cases in territory",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 27,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patients on drug reporting throwing up and nausea",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 27,
+        "end": 38,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 43,
+        "end": 49,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "adverse event shows loose motions in trial subjects",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 20,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have belly ache and feel sick",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 22,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o stuffy nose and running nose for 3 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 40,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 45,
+        "end": 51,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "i have temperature and body ache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports puking and loose stools since yesterday",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 46,
+        "end": 55,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "i cant breathe and have chest tightness",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 2,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o trouble breathing and fast heartbeat",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 48,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel tired and have no energy since 1 week",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 22,
+        "end": 31,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 38,
+        "end": 44,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient reports exhaustion and feeling weak",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 43,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "my head is spinning and i feel dizzy",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 3,
+        "end": 19,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o head rush and spinning sensation",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 44,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have itchy feeling all over",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports skin rash and red spots",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have bumps and itching for 2 days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 17,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 35,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "my heart is pounding and racing",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 3,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o fast heartbeat and heart racing",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 43,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have acidity and gassy feeling",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports acid reflux and gas",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am not sleeping and feel tired",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 5,
+        "end": 17,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o cant sleep and exhaustion",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have trouble sleeping for 1 month",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 35,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient reports bp high and headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have bp low and feel weak",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 13,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o sugar high and blurred vision",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 41,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mr report shows tummy ache cases increasing",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 16,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "territory data indicates running nose and blocked nose complaints",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 25,
+        "end": 37,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 42,
+        "end": 54,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patients on trial drug c/o throwing up for 2 days",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 27,
+        "end": 38,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 43,
+        "end": 49,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "adverse event report shows loose stools and belly pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 27,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 54,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "post dose patient c/o breathlessness and cant breathe",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 22,
+        "end": 36,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 41,
+        "end": 53,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "clinical trial subject reports feeling tired and exhausted",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 31,
+        "end": 44,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 49,
+        "end": 58,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have tummy pain and throwing up since morning",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 22,
+        "end": 33,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 40,
+        "end": 47,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o belly ache and puking for 3 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 33,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 38,
+        "end": 44,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "i have stuffy nose and high temp",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports running nose and temperature",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 44,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have loose motions and tummy ache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o loose stools and belly pain for 2 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 50,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "i cant breathe properly and have trouble breathing",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 2,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 50,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports breathlessness and difficulty breathing",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 30,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 35,
+        "end": 55,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel very tired and exhausted since 1 week",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 17,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 22,
+        "end": 31,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 38,
+        "end": 44,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o tiredness and no energy",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel weak and have exhaustion",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports feeling weak and tired",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "my head is spinning and i have head rush",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 3,
+        "end": 19,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o spinning sensation and dizziness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 30,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 35,
+        "end": 44,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have itchy skin and red spots",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 22,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports itching and skin rash",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have bumps on skin and itchy feeling",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o rash and itching for 3 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 39,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "my heart is racing and pounding",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 3,
+        "end": 18,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports fast heartbeat and heart pounding",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 30,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 35,
+        "end": 49,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have acidity and acid reflux",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o gas and gassy feeling",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i cannot sleep and have trouble sleeping",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 2,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports not sleeping and insomnia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 41,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o can't sleep",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o runny nose",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o high temp",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o stuffy nose",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing heart racing for since 3 days",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 42,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "i have tummy ache and back pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 22,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing heart racing for for few days",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 42,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "experiencing heart racing for for 3 weeks",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 41,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "experiencing high temp for since morning",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 40,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "experiencing belly pain for for 1 year",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 38,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "i have short of breath and hearing loss",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have tummy ache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have can't sleep and confusion",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing tummy ache for for few days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 40,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "experiencing belly pain for for 6 hours",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 39,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o stuffy nose",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing can't sleep for since morning",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 42,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "i have tummy ache and palpitations",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 22,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing belly pain for for 5 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 38,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "i have short of breath and diarrhea",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing belly pain for for few days",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 40,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "i have stuffy nose and edema",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o heart racing",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have stuffy nose",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing feeling sick for since morning",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 43,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o throwing up",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing stuffy nose for for 3 hours",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 40,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "experiencing tummy ache for for 10 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 39,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "experiencing stuffy nose for since last week",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 44,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o heart racing",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o throwing up",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o high temp",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have heart racing",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing stuffy nose for since yesterday",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 44,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "i have high temp and itching",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing runny nose for for 5 days",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 38,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "i have heart racing and irritation",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 19,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have can't sleep and headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o stuffy nose",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have feeling sick",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have runny nose and rash",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 22,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing tummy ache for for 2 days",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 38,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "i have tummy ache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have feeling sick",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing belly pain for since last night",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 44,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "experiencing short of breath for for few days",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 45,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "i have can't sleep",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have feeling sick and burning",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 19,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have tummy ache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have heart racing",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have runny nose",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o stuffy nose",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing stuffy nose for since 2 days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 41,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "experiencing runny nose for for few days",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 40,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "i have throwing up and ulcers",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have belly pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have heart racing and blurred vision",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 19,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have belly pain and tingling",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 22,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o can't sleep",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have stuffy nose",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have belly pain and rash",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 22,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o tummy ache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing tummy ache for for 1 week",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 38,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "experiencing throwing up for for 3 weeks",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 40,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o runny nose",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have throwing up and lesions",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing high temp for for 5 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 37,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o feeling sick",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have heart racing",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have can't sleep",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o throwing up",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have feeling sick",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have can't sleep and bloating",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have high temp and bloating",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have stuffy nose",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have high temp and tingling",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have belly pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o can't sleep",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o heart racing",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing stuffy nose for for 1 week",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 39,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o stuffy nose",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have can't sleep",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o stuffy nose",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing belly pain for for 1 week",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 38,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "experiencing heart racing for for few days",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 42,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "i have heart racing and soreness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 19,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o throwing up",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have stuffy nose",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing can't sleep for since this morning",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 47,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "experiencing high temp for since last night",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 43,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "i have short of breath",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o throwing up",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have tummy ache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have throwing up and palpitations",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o can't sleep",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o short of breath",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing can't sleep for since 3 days",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 41,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "i have high temp",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing belly pain for since morning",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 41,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "experiencing belly pain for for 10 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 39,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o tummy ache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing feeling sick for for 6 hours",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 41,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "i have throwing up and chest pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o feeling sick",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing high temp for for 5 days",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 37,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "i have heart racing and weight loss",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 19,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o feeling sick",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have short of breath",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have high temp and bruising",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o high temp",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing stuffy nose for for 5 days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 39,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o belly pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing high temp for for 1 year",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 37,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o throwing up",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o short of breath",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o throwing up",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o short of breath",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o high temp",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have throwing up",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing throwing up for for 1 week",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 39,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o tummy ache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have high temp and swelling",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing stuffy nose for since morning",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 42,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "i have short of breath and ulcers",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o heart racing",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports tired all the time",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 16,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel throwing up",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have tummy ache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "suffering from high temp",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing runny nose for for 3 weeks",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 39,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "suffering from feeling sick",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 15,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing short of breath for for 2 months",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 45,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "i have achy joints",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing can't sleep for for 8 hours",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 40,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient reports upset stomach",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 16,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with runny nose for for 12 hours",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 40,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient reports achy joints",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 16,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with belly pain for for 3 weeks",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 39,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient reports stuffy nose",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 16,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with throwing up for since 2 days",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 41,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "i have stuffy nose",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports throwing up",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 16,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have can't breathe and soreness",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with dizzy spells for since childhood",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 45,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "i feel runny nose",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "suffering from belly pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 15,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "suffering from runny nose",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel stuffy nose",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have throwing up and urgency",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports high temp",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing dizzy spells for since last month",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 46,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o achy joints",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing tired all the time for for 6 hours",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 31,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 47,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with bad headache for for 1 year",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 40,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient reports heart racing",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 16,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel bad headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports high temp",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 16,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have upset stomach and swelling",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel stuffy nose",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with throwing up for for 2 months",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 41,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "suffering from runny nose",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with tired all the time for for 2 months",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 31,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 48,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "i have can't sleep",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have runny nose",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with tummy ache for for 2 days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 38,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "suffering from bad headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 15,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o bad headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have upset stomach",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have achy joints",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have belly pain and redness",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 22,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have belly pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel dizzy spells",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have upset stomach and numbness",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have tummy ache and stiffness",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 22,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel upset stomach",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have short of breath and diarrhea",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing bad headache for for few days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 42,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "i feel can't sleep",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel runny nose",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "suffering from bad headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports heart racing",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 16,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o throwing up",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with tired all the time for since childhood",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 31,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 51,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient reports tummy ache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 16,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have bad headache and muscle pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 19,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel bad headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have dizzy spells and blurred vision",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 19,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "suffering from short of breath",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice dizzy spells",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 9,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with tummy upset for since noon",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 39,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "i notice high temp",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 9,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of tummy upset",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of bad headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "suffering from ear ache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have short of breath",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o tummy upset",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with sore throat for for 1 week",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 39,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with high temp for for years",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 36,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "suffering from tummy upset",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice can't breathe",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 9,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with high temp for for 3 weeks",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 38,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "i have upset stomach and hypoesthesia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports high temp",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 16,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "suffering from tummy ache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing tired all the time for for 1 year",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 31,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 46,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "experiencing tired all the time for for 72 hours",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 31,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 48,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "suffering from can't sleep",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports upset stomach",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 16,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice runny nose",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 9,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "suffering from feeling sick",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice high temp",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 9,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "suffering from belly pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 15,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have achy joints and weakness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel upset stomach",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with achy joints for for few days",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 41,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient reports dizzy spells",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 16,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have short of breath",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of ear ache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have can't breathe and stridor",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice can't breathe",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 9,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o dizzy spells",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o runny nose",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have belly pain and rash",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 22,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o dizzy spells",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice feeling faint",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 9,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports tummy ache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 16,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice can't breathe",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 9,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o achy joints",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel bad headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with ear ache for for 2 days",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 36,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o dizzy spells",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of bad headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have can't sleep",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o runny nose",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "suffering from throwing up",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 15,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o achy joints",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have upset stomach and tremor",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing tummy ache for since this morning",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 46,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of belly pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "suffering from throwing up",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have can't breathe and hearing loss",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of can't breathe",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports upset stomach",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 16,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o feeling sick",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of short of breath",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o short of breath",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports short of breath",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 16,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of high temp",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing throwing up for for 4 days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 39,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "suffering from upset stomach",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "suffering from heart racing",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports stuffy nose",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 16,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with stuffy nose for since 3 days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 41,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "i have stuffy nose and diplopia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice can't breathe",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 9,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of runny nose",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of upset stomach",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o ear ache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with can't breathe for since last night",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 47,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "i notice high temp",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 9,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with short of breath for since childhood",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 48,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of feeling faint",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports stuffy nose",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have stuffy nose",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel stuffy nose",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice can't sleep",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 9,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports throwing up",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 16,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice can't sleep",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 9,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports high temp",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with belly pain for for 1 week",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 38,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o tired all the time",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel sore throat",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports stuffy nose",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 16,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports achy joints",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice feeling sick",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 9,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "suffering from feeling faint",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice runny nose",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 9,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with feeling sick for since last month",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 46,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of sore throat",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports feeling faint",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 16,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice sore throat",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 9,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of can't breathe",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice feeling sick",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 9,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have dizzy spells",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports can't sleep",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 16,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports achy joints",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 16,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice sore throat",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 9,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "suffering from tummy upset",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice runny nose",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 9,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "suffering from heart racing",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice can't sleep",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 9,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have throwing up and hyperalgesia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with upset stomach for since last week",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 46,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "experiencing tummy ache for for 12 hours",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 40,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "i notice throwing up",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 9,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have feeling sick",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "suffering from belly pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with achy joints for since last week",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 44,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient reports heart racing",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "suffering from heart racing",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 15,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o achy joints",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "suffering from can't breathe",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o runny nose",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have tummy ache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel upset stomach",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "suffering from tummy ache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 15,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have belly pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have runny nose",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have short of breath and photophobia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel short of breath",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing tired all the time for for 2 months",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 31,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 48,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of high temp",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  }
+]

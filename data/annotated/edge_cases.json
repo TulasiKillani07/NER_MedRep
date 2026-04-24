@@ -1,0 +1,5904 @@
+[
+  {
+    "text": "i have fever or maybe just feeling warm",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports possible headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 25,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i think i have chest pain but not sure",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient may have fever need to confirm",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 17,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have something like headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 22,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o fever like symptoms",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have pain somewhere in chest area",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports vague abdominal discomfort",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 42,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have been feeling unwell for few days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 20,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 39,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o general malaise",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i dont feel good since yesterday",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 32,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient reports feeling off",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have pain but cant describe where",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o nonspecific pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have fever and also headache or maybe both",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 22,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports either fever or chills",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 23,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have chest pain that comes and goes",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o intermittent headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 24,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 25,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have pain on and off for 2 days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 33,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient reports occasional dizziness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 26,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 27,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have fever sometimes",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o sporadic chest pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 21,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have pain that is hard to explain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports unusual sensation in chest",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have weird feeling in stomach",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o strange pain in abdomen",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have pain everywhere",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports diffuse body ache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 23,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 24,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have pain all over body",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o generalized pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have multiple symptoms cant list all",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports numerous complaints",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have everything hurting",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o multiple vague symptoms",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have pain but only when i move",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports pain on movement",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have chest pain when i breathe",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o pain on inspiration",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have headache only at night",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports nocturnal symptoms",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have pain that wakes me up",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o pain disturbing sleep",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have fever that comes at specific times",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports periodic fever",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 25,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have pain worse in morning",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o morning stiffness and pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have symptoms getting worse",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports progressive symptoms",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 27,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 28,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have pain increasing over time",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o worsening chest pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 21,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 22,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have symptoms improving slowly",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports decreasing pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 27,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 28,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have pain better than before",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o resolving symptoms",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have fever but feel okay otherwise",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports isolated fever",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 25,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have only one symptom which is pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 33,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o single complaint of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 32,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have pain unlike anything before",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports new onset symptoms",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have never felt this way before",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 11,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o unfamiliar sensation",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have pain different from usual",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports atypical chest pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 25,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have symptoms not like last time",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o variant presentation",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have pain similar to before",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports recurrent symptoms",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 25,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 26,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have same pain as last month",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o repeat episode of chest pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 30,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have pain exactly like previous time",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports identical symptoms",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have pain that radiates everywhere",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o radiating chest pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 21,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 22,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have pain spreading to other areas",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports pain with radiation",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have pain moving around",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o migratory pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have pain shifting locations",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports wandering symptoms",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have pain in multiple spots",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o multifocal pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have pain in several places",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports pain at multiple sites",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have constant pain without relief",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 16,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o persistent unremitting pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 22,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 23,
+        "end": 34,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 35,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have pain that never stops",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports continuous symptoms",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 26,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 27,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have pain all day and night",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o round the clock pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 24,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have pain with no pattern",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports unpredictable symptoms",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 29,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 30,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have pain randomly occurring",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o erratic chest pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 19,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 20,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have pain with no trigger",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports spontaneous symptoms",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 27,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 28,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have pain for no reason",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o idiopathic pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have pain without any cause",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports unexplained symptoms",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing intermittent heartburn",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 26,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing intermittent heartburn",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 26,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have pain getting worse",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have ulcers improving",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing intermittent diarrhea",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 26,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have vomiting getting worse",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o worsening jaundice",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 22,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports vague headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 22,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o worsening redness",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 22,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing intermittent sob",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 26,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "occasional muscle pain and bloating",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 11,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o worsening vomiting",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 22,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports progressive loss of appetite",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 28,
+        "end": 44,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have tremor improving",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have bloating improving",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports vague itching",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports progressive muscle pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 28,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o worsening rash",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 22,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have atrophy getting worse",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have chest pain getting worse",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have some rash",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have some bleeding",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have ulcers improving",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o worsening cramps",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have some muscle pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have sob getting worse",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 10,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have some discharge",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have burning getting worse",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have tinnitus improving",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports progressive fever",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 28,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing intermittent rigidity",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 26,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have some tinnitus",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing intermittent vomiting",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 26,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "occasional diarrhea and abdominal pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 11,
+        "end": 19,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have vertigo getting worse",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o worsening sweating",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 22,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports vague cough",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports progressive chills",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 28,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have headache getting worse",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have some soreness",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "occasional diarrhea and muscle pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 11,
+        "end": 19,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing intermittent fatigue",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 26,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have cough improving",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "occasional ulcers and soreness",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 11,
+        "end": 17,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 22,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing intermittent nausea",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 26,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "occasional fever and discharge",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 11,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports vague swelling",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing intermittent blurred vision",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 26,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have pain improving",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports progressive rigidity",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 28,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing intermittent lesions",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 26,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "occasional lesions and edema",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 11,
+        "end": 18,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have some vertigo",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o worsening fatigue",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 22,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o worsening headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 22,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing intermittent chest pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 26,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports progressive muscle pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 28,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have spasms getting worse",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing intermittent tingling",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 26,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports progressive vomiting",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 28,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have burning getting worse",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have blurred vision getting worse",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have some swelling",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have chest pain improving",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "occasional seizures and irritation",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 11,
+        "end": 19,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have pain getting worse",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports progressive blurred vision",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 28,
+        "end": 42,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o worsening fever",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 22,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have some weight loss",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports vague lesions",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 22,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have abdominal pain improving",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "occasional dizziness and sob",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 11,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports vague irritation",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 22,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "occasional weight loss and vertigo",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 11,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have weight loss improving",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have some insomnia",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have diarrhea improving",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports progressive discharge",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 28,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing intermittent headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 26,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing intermittent tingling",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 26,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have some abdominal pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o worsening palpitations",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 22,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have some nausea",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports progressive headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 28,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have confusion improving",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing intermittent lesions",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 26,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing intermittent rigidity",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 26,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have tinnitus improving",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing intermittent chills",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 26,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have some stiffness",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "occasional hearing loss and irritation",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 11,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports vague palpitations",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 22,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports vague vomiting",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports progressive abdominal pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 28,
+        "end": 42,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing intermittent fatigue",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 26,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports vague cramps",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 22,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o worsening insomnia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing intermittent abdominal pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 26,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "occasional ulcers and weight loss",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 11,
+        "end": 17,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 22,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have nausea improving",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports progressive bleeding",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 28,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing intermittent bloating",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 26,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "occasional joint pain and fever",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 11,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports vague atrophy",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports vague back pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 22,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "occasional weight loss and cough",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 11,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing intermittent inflammation",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 26,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have abdominal pain improving",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have numbness getting worse",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "occasional headache and stiffness",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 11,
+        "end": 19,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports progressive rigidity",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 28,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have some spasms",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have vertigo getting worse",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have some redness",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "occasional insomnia and redness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 11,
+        "end": 19,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have soreness getting worse",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have some rash",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing intermittent bleeding",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 26,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing intermittent bloating",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 26,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o worsening constipation",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 22,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have numbness improving",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports vague chills",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "occasional irritation and pallor",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 11,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports progressive dizziness",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 28,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o worsening irritation",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 22,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have on and off wheezing",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o worsening edema",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 22,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing intermittent weakness",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 26,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports progressive frequency",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 28,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports vague pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 22,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient notes fluctuating nocturia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 26,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "occasional rigidity and anorexia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 11,
+        "end": 19,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i sometimes have bleeding",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 17,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have stiffness that comes and goes",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "occasional dysphagia and sweating",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 11,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o worsening polyuria",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 22,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have nausea getting worse",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i sometimes have bleeding",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 17,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing intermittent pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 26,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o worsening pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have some weight loss",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have dysmenorrhea that comes and goes",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports progressive frequency",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 28,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have numbness getting worse",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have on and off stiffness",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 18,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have vertigo improving",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have loss of appetite getting worse",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "occasional chills and rash",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 11,
+        "end": 17,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 22,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have sweating that comes and goes",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have discharge that comes and goes",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i sometimes have fatigue",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 17,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have on and off bleeding",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing intermittent itching",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 26,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have tremor improving",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have bleeding getting worse",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have dysuria improving",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing unpredictable retention",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 27,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing unpredictable dysphagia",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 27,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports vague dehydration",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 22,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient notes fluctuating tingling",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 26,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient notes fluctuating vertigo",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 26,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have atrophy improving",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have stridor improving",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing unpredictable abdominal pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 27,
+        "end": 41,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have on and off weight loss",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 18,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o worsening numbness",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 22,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient describes variable hemoptysis",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 27,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient notes fluctuating discharge",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 26,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient notes fluctuating hemoptysis",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 26,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "occasional soreness and jaundice",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 11,
+        "end": 19,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports progressive constipation",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 28,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "occasional constipation and urgency",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 11,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have headache that comes and goes",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing unpredictable ulcers",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 27,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports vague dehydration",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 22,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o worsening muscle pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 22,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have on and off dizziness",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 18,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have some hemoptysis",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient describes variable inflammation",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 27,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing intermittent hoarseness",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 26,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have soreness improving",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports progressive edema",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 28,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o worsening insomnia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 22,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i sometimes have bloating",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 17,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports progressive stridor",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 28,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "occasional bleeding and soreness",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 11,
+        "end": 19,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "occasional chills and loss of appetite",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 11,
+        "end": 17,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 22,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient describes variable stiffness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 27,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o worsening phonophobia",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 22,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have on and off photophobia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 18,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have some amenorrhea",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice periodic hearing loss",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 18,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have anorexia that comes and goes",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have presyncope improving",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have chills getting worse",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have some hearing loss",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have on and off hemoptysis",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 18,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports vague swelling",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 22,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing intermittent photophobia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 26,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o worsening vertigo",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 22,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient notes fluctuating insomnia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 26,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have some rigidity",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing unpredictable confusion",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 27,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient describes variable chest pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 27,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice periodic hemoptysis",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 18,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have some itching",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have some syncope",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have confusion improving",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with sporadic allodynia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 22,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i sometimes have sweating",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 17,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have blurred vision getting worse",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have on and off numbness",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing unpredictable headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 27,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports progressive jaundice",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 28,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have stiffness that comes and goes",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice periodic nausea",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 18,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient describes variable seizures",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 27,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have on and off tinnitus",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports progressive hypoesthesia",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 28,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have on and off frequency",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 18,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports vague pallor",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "occasional itching and dizziness",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 11,
+        "end": 18,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have chest pain that comes and goes",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice periodic sweating",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have scotoma that comes and goes",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports progressive chest pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 28,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient notes fluctuating stridor",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 26,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have cough getting worse",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i sometimes have weight loss",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 17,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i sometimes have weakness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 17,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing intermittent scotoma",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 26,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o worsening back pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient describes variable blurred vision",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 27,
+        "end": 41,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o worsening polyuria",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 22,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have on and off tingling",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient describes variable tinnitus",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 27,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o worsening phonophobia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 22,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports progressive scotoma",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 28,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports vague hoarseness",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 22,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have allodynia that comes and goes",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports vague hoarseness",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 22,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o worsening headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 22,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i sometimes have insomnia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 17,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports progressive cough",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 28,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing unpredictable irritation",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 27,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing intermittent pallor",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 26,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient notes fluctuating chills",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 26,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing unpredictable weight loss",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 27,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have on and off pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 18,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have some vertigo",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i sometimes have scotoma",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 17,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing intermittent allodynia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 26,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with sporadic dehydration",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 22,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports progressive chills",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 28,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have hearing loss that comes and goes",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient describes variable photophobia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 27,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports vague tingling",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 22,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o worsening dysuria",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with sporadic wheezing",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 22,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have some hoarseness",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "occasional blurred vision and frequency",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 11,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient describes variable blurred vision",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 27,
+        "end": 41,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing unpredictable irritation",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 27,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient describes variable hyperalgesia",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 27,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o worsening numbness",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 22,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient notes fluctuating discharge",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 26,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o worsening wheezing",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 22,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have hyperesthesia that comes and goes",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports progressive hypoesthesia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 28,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "occasional scotoma and joint pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 11,
+        "end": 18,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have on and off hearing loss",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 18,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have burning improving",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient notes fluctuating tinnitus",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 26,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i sometimes have hearing loss",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 17,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o worsening atrophy",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports vague polyuria",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 22,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient describes variable chest pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 27,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i sometimes have presyncope",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 17,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have wheezing getting worse",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice periodic numbness",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient describes variable seizures",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 27,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with sporadic dizziness",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 22,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i sometimes have nocturia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 17,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports vague pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 22,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have atrophy that comes and goes",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports progressive hearing loss",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 28,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports vague muscle pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 22,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o worsening spasms",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient describes variable blurred vision",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 27,
+        "end": 41,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with sporadic hoarseness",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 22,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have itching that comes and goes",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient notes fluctuating dehydration",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 26,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "occasional phonophobia and dysphagia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 11,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports vague incontinence",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o worsening bloating",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 22,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient notes fluctuating dehydration",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 26,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have weakness that comes and goes",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "occasional paresthesia and loss of appetite",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 11,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 43,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with sporadic vomiting",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have on and off swelling",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have nausea that comes and goes",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have loss of appetite getting worse",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports progressive hyperesthesia",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 28,
+        "end": 41,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have pain getting worse",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing intermittent insomnia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 26,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i notice periodic abdominal pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 18,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i sometimes have edema",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 17,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i sometimes have ulcers",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 17,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with sporadic blurred vision",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 22,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing intermittent frequency",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 26,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have polyuria that comes and goes",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have allodynia improving",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  }
+]

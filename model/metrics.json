@@ -1,0 +1,29 @@
+{
+  "overall": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1_score": 0.0
+  },
+  "per_entity": {
+    "SYMPTOM": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0
+    },
+    "INDICATION": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0
+    },
+    "SEVERITY": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0
+    },
+    "DURATION": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0
+    }
+  }
+}

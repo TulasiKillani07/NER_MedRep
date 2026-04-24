@@ -1,0 +1,7954 @@
+[
+  {
+    "text": "I have fever since two days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 27,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "Patient has headache and mild nausea",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 29,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 30,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "c/o cough for three days",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 9,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 14,
+        "end": 24,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "Chief complaint is chest pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 19,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "Presenting complaint: fatigue and weakness",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 22,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 42,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "I have back pain of moderate severity",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 28,
+        "label": "SEVERITY"
+      }
+    ]
+  },
+  {
+    "text": "I have a sore throat and runny nose",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 9,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "Indication for use is chronic migraine",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 22,
+        "end": 38,
+        "label": "INDICATION"
+      }
+    ]
+  },
+  {
+    "text": "He has severe abdominal pain since morning",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 13,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 14,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 42,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "I have insomnia for the past week",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 33,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "I am vomiting since last night",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 5,
+        "end": 13,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 30,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "Patient is bleeding from the wound",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 11,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "He is coughing continuously for two hours",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 41,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "She is sweating profusely",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "Patient is wheezing and struggling to breathe",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 11,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "I am shivering and feel very cold",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 5,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "He is limping due to knee pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 13,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "I am itching all over the body",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 5,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "She is trembling and appears anxious",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "I am sneezing repeatedly since morning",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 5,
+        "end": 13,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 38,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "I feel feverish and tired",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "Patient is nauseous after the medication",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 11,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "Feeling dizzy and lightheaded",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 18,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "She appears pale and lethargic",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "Patient is breathless on exertion",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 11,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "I feel bloated and uncomfortable after eating",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "He is confused and disoriented",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 6,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "Patient is jaundiced with yellow sclera",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 11,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "I feel nauseated and weak",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "I am hoarse and have difficulty speaking",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 5,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "I am having chest pain since this morning",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 41,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "Patient is experiencing dizziness and blurred vision",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 24,
+        "end": 33,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 38,
+        "end": 52,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "I am having severe headache for the last hour",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 18,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 19,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 45,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "He is experiencing shortness of breath",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 19,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "I am having loose stools since yesterday",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 40,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "Patient is having palpitations and mild anxiety",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 18,
+        "end": 30,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 35,
+        "end": 39,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 40,
+        "end": 47,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "I am experiencing burning sensation while urinating",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 18,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "He is having muscle cramps in both legs",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "I am having difficulty swallowing for two days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 33,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 38,
+        "end": 46,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "Patient is experiencing joint pain and stiffness",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 24,
+        "end": 34,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 39,
+        "end": 48,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "I had fever yesterday",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 11,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 12,
+        "end": 21,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "Patient had vomiting since morning",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 34,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "She had severe chest pain last week",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 8,
+        "end": 14,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 15,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 35,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "He had a seizure two days ago",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 9,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 17,
+        "end": 29,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "I experienced dizziness after standing up",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 14,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "I had a rash on my arms for three days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 38,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "I had mild swelling in my ankles",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 10,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 11,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "Patient reported fatigue and loss of appetite last month",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 17,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 45,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 46,
+        "end": 56,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "I had nosebleed for about ten minutes",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 37,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "I had sharp pain in my lower back yesterday morning",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 11,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 33,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 51,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "Fever was noted on examination",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "Pain was reported by the patient",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "Swelling was observed in the right knee",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "Mild rash was detected on the forearm",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 5,
+        "end": 9,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "Breathlessness was reported to have started two days ago",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 0,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 56,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "Severe dehydration was diagnosed",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "Cough was noted to be productive and persistent",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "Hypertension was indicated as the primary diagnosis",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "label": "INDICATION"
+      }
+    ]
+  },
+  {
+    "text": "Nausea and vomiting were reported after chemotherapy",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 11,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "Moderate pain was documented in the patient record",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "Is the patient having fever?",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "Does he have chest pain?",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "Has the patient been experiencing headache?",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 34,
+        "end": 42,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "Did you have vomiting last night?",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 22,
+        "end": 32,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "Is the cough severe or mild?",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 13,
+        "end": 19,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 23,
+        "end": 27,
+        "label": "SEVERITY"
+      }
+    ]
+  },
+  {
+    "text": "Are you feeling any dizziness or nausea?",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 20,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "How long have you had the back pain?",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 26,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "Was the shortness of breath present at rest?",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 8,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "Did the swelling start suddenly?",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 8,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "Is the patient indicated for hypertension treatment?",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 29,
+        "end": 41,
+        "label": "INDICATION"
+      }
+    ]
+  },
+  {
+    "text": "Patient says he has fever since two days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 20,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 40,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "Doctor noted that patient has severe headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 30,
+        "end": 36,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 37,
+        "end": 45,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "I mentioned that I had been having chest pain for a week",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 35,
+        "end": 45,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 50,
+        "end": 56,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "I reported that the dizziness started yesterday",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 20,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 38,
+        "end": 47,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "Patient claims to have had nausea and vomiting all morning",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 27,
+        "end": 33,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 38,
+        "end": 46,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 47,
+        "end": 58,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "Nurse noted that patient complained of mild back pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 39,
+        "end": 43,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 44,
+        "end": 53,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "Patient stated that the cough has been present for three weeks",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 24,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 51,
+        "end": 62,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "I told the doctor that I was feeling very weak",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 37,
+        "end": 46,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "Caregiver reported that patient had severe breathlessness at night",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 36,
+        "end": 42,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 43,
+        "end": 57,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 58,
+        "end": 66,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "Pharmacist noted that the drug is indicated for type 2 diabetes",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 48,
+        "end": 63,
+        "label": "INDICATION"
+      }
+    ]
+  },
+  {
+    "text": "No fever but has headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 3,
+        "end": 8,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 17,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "Denies chest pain but reports back pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "No vomiting but I have mild nausea",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 3,
+        "end": 11,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 27,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 28,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "Patient denies dizziness but complains of severe headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 42,
+        "end": 48,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 49,
+        "end": 57,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "No cough but I have runny nose and sore throat",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 3,
+        "end": 8,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 30,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 35,
+        "end": 46,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "Denies shortness of breath but has mild chest tightness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 35,
+        "end": 39,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 40,
+        "end": 55,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "No rash but patient reports itching for two days",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 3,
+        "end": 7,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 35,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 40,
+        "end": 48,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "I deny fatigue but I have loss of appetite",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 42,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "No swelling noted but patient has joint pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 3,
+        "end": 11,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 44,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "I deny palpitations but I have mild anxiety since last week",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 19,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 36,
+        "end": 43,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 50,
+        "end": 59,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "Patient came with fever and was also having cough",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 18,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 49,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "I had headache which was severe and lasted for two days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 31,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 47,
+        "end": 55,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "She presented with nausea and vomiting and was also feeling dizzy",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 19,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 38,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 60,
+        "end": 65,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "Patient has chest pain and shortness of breath since yesterday",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 46,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 47,
+        "end": 62,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "I have back pain and it is very severe",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 38,
+        "label": "SEVERITY"
+      }
+    ]
+  },
+  {
+    "text": "I am coughing and also have mild fever for three days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 5,
+        "end": 13,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 32,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 33,
+        "end": 38,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 43,
+        "end": 53,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "He came in with rash and swelling and was also feeling feverish",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 16,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 33,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 55,
+        "end": 63,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "Drug is indicated for rheumatoid arthritis and also helps with joint pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 22,
+        "end": 42,
+        "label": "INDICATION"
+      },
+      {
+        "start": 63,
+        "end": 73,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "Patient had diarrhea for two days and was also experiencing abdominal cramps",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 33,
+        "label": "DURATION"
+      },
+      {
+        "start": 60,
+        "end": 76,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "I have mild fatigue and have been having headache since this morning",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 12,
+        "end": 19,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 41,
+        "end": 49,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 50,
+        "end": 68,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing severe pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "the irritation started for 1 month",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 34,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient reports progressive edema",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 16,
+        "end": 27,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 28,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "vertigo has been present for since yesterday",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 44,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient was complaining of chest pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 27,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "the back pain is moderate",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 13,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 17,
+        "end": 25,
+        "label": "SEVERITY"
+      }
+    ]
+  },
+  {
+    "text": "patient reports sharp chills",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 16,
+        "end": 21,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 22,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "the weight loss started for 2 days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 34,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient was complaining of cough",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 27,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports intermittent chest pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 16,
+        "end": 28,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 29,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "the sweating started since morning",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 34,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient reports acute back pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 16,
+        "end": 21,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 22,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "blurred vision developed for 10 days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 0,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 36,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "the soreness started for 1 month",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 32,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "bloating has been present for since last night",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 46,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "hearing loss developed since 3 days",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 35,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "experiencing intermittent muscle pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 25,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 26,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "the sob started for 1 month",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 16,
+        "end": 27,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "the weight loss started since this morning",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 42,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "inflammation has been present for for few days",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 46,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "experiencing progressive diarrhea",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 24,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 25,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "confusion developed for 1 month",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 31,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient was complaining of chills",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 27,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "tremor developed for few days",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 17,
+        "end": 29,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "the edema is cramping",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 9,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 13,
+        "end": 21,
+        "label": "SEVERITY"
+      }
+    ]
+  },
+  {
+    "text": "chills developed since last night",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 17,
+        "end": 33,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "loss of appetite has been present for for 1 year",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 0,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 38,
+        "end": 48,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient was complaining of rash",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 27,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing acute constipation",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 18,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 19,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing vertigo",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 24,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing intermittent joint pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 25,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 26,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "the numbness started for 12 hours",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 33,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient was complaining of confusion",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 27,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports cramping vomiting",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 25,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "the muscle pain is burning",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 26,
+        "label": "SEVERITY"
+      }
+    ]
+  },
+  {
+    "text": "patient was complaining of confusion",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 27,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "the diarrhea is debilitating",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 16,
+        "end": 28,
+        "label": "SEVERITY"
+      }
+    ]
+  },
+  {
+    "text": "patient reports bilateral jaundice",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 16,
+        "end": 25,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 26,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports dull bruising",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 16,
+        "end": 20,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient was complaining of palpitations",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 27,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports acute stiffness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 21,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 22,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing seizures",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 24,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing bilateral edema",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 22,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 23,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient was complaining of jaundice",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 27,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "the vomiting is gradual",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 16,
+        "end": 23,
+        "label": "SEVERITY"
+      }
+    ]
+  },
+  {
+    "text": "tingling developed for 3 hours",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 30,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "chills developed for few days",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 17,
+        "end": 29,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient reports shooting sob",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 25,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing debilitating weight loss",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 25,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 26,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "the tremor is unilateral",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 10,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 14,
+        "end": 24,
+        "label": "SEVERITY"
+      }
+    ]
+  },
+  {
+    "text": "experiencing acute jaundice",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 18,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 19,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports stabbing rigidity",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 25,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing spasms",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing joint pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 24,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing burning loss of appetite",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 20,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 21,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports episodic edema",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 25,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient was complaining of edema",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 27,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient was complaining of swelling",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 27,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient was complaining of chills",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 27,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "bruising has been present for for 3 weeks",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 41,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "pain developed for 4 days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 15,
+        "end": 25,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing rigidity",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 24,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports intermittent loss of appetite",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 28,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 29,
+        "end": 45,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing moderate weight loss",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 21,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 22,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing dizziness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 24,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient was complaining of cough",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 27,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "the loss of appetite started since 3 days",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 41,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient reports shooting blurred vision",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 25,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "tinnitus has been present for for 3 hours",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 41,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient reports persistent lesions",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 16,
+        "end": 26,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 27,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient was complaining of sweating",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 27,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "the hearing loss started for 3 hours",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 36,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "tinnitus has been present for since last week",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 45,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "confusion has been present for since this morning",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 49,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient was complaining of numbness",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 27,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing bloating",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 24,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "bleeding has been present for since 3 days",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 42,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "experiencing excruciating headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 25,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 26,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "fever developed for 2 weeks",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 16,
+        "end": 27,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient reports bilateral blurred vision",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 16,
+        "end": 25,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 26,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports dull headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 20,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient was complaining of vertigo",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 27,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing jaundice",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 24,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "the muscle pain is acute",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 24,
+        "label": "SEVERITY"
+      }
+    ]
+  },
+  {
+    "text": "patient was complaining of vomiting",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 27,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "the joint pain is bilateral",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 18,
+        "end": 27,
+        "label": "SEVERITY"
+      }
+    ]
+  },
+  {
+    "text": "patient was complaining of atrophy",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 27,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports intense heartburn",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 16,
+        "end": 23,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 24,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient was complaining of tingling",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 27,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "the headache started since last night",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 37,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "nausea has been present for for 5 days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 38,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "the chills started since morning",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 10,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 32,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "the itching is intense",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 11,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 15,
+        "end": 22,
+        "label": "SEVERITY"
+      }
+    ]
+  },
+  {
+    "text": "palpitations has been present for for 10 days",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 45,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient was complaining of itching",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 27,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "joint pain developed since last night",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 37,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "bloating has been present for for 4 days",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 40,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient was complaining of weight loss",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 27,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "soreness has been present for for 1 year",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 40,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "experiencing progressive ulcers",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 24,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 25,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "the weight loss is cramping",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 27,
+        "label": "SEVERITY"
+      }
+    ]
+  },
+  {
+    "text": "vomiting developed since last week",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 34,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "the diarrhea started for 4 days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 31,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "pain developed for 3 weeks",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 15,
+        "end": 26,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing bloating",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 24,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing stiffness",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 24,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing back pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 24,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "the stiffness started for 5 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 13,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 22,
+        "end": 32,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "the cough started since morning",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 9,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 18,
+        "end": 31,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient was complaining of numbness",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 27,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "the chills is cramping",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 10,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 14,
+        "end": 22,
+        "label": "SEVERITY"
+      }
+    ]
+  },
+  {
+    "text": "patient was complaining of constipation",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 27,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing gradual tinnitus",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 20,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "blurred vision has been present for for 1 month",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 0,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 47,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "vomiting developed for 1 week",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 29,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "experiencing intense tinnitus",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 20,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "tremor has been present for for 12 hours",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 40,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient was complaining of sob",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 27,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing persistent loss of appetite",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 23,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 24,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports recurrent bloating",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 16,
+        "end": 25,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 26,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing aching joint pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 19,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 20,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "the sweating is progressive",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 16,
+        "end": 27,
+        "label": "SEVERITY"
+      }
+    ]
+  },
+  {
+    "text": "hearing loss has been present for for 6 hours",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 45,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "soreness has been present for for 6 hours",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 41,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "ulcers has been present for since last night",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 44,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing fatigue",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 24,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "edema is progressively getting worse",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "the diarrhea has improved",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient notes tinnitus for for 2 months",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 14,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 39,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient reports localized headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 16,
+        "end": 25,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 26,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "tingling is progressively getting worse",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "fever has worsened over since this morning",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 42,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "numbness persists despite treatment",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "the jaundice is diffuse",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 16,
+        "end": 23,
+        "label": "SEVERITY"
+      }
+    ]
+  },
+  {
+    "text": "patient reports moderate epistaxis",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 25,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "joint pain persists despite treatment",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "the tingling is stabbing",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SEVERITY"
+      }
+    ]
+  },
+  {
+    "text": "the diarrhea has improved",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing unilateral polyuria for for 10 days",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 23,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 24,
+        "end": 32,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 37,
+        "end": 48,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "weight loss persists despite treatment",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient was complaining of persistent dysuria",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 27,
+        "end": 37,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 38,
+        "end": 45,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing referred weakness for for 8 hours",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 21,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 22,
+        "end": 30,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 35,
+        "end": 46,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "the abdominal pain started since this morning",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 18,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 45,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient notes cough for for 2 days",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 14,
+        "end": 19,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 34,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient reports throbbing frequency",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 25,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 26,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "the rash is dull",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 8,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "label": "SEVERITY"
+      }
+    ]
+  },
+  {
+    "text": "patient notes nocturia for since last month",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 14,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 43,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "spasms developed for few days",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 17,
+        "end": 29,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient describes colicky muscle pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 18,
+        "end": 25,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 26,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pallor has worsened over for 3 weeks",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 36,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing cramping dizziness",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 24,
+        "end": 32,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 33,
+        "end": 42,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "the diarrhea has improved",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient describes intermittent spasms",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 18,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "joint pain persists despite treatment",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "anorexia is progressively getting worse",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "the progressive bloating began for 4 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 15,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 41,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "experiencing episodic dizziness for for 2 weeks",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 21,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 22,
+        "end": 31,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 47,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient reports sudden discharge",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 16,
+        "end": 22,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 23,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "retention has been present for for years",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 40,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "the diffuse itching began for 4 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 11,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 12,
+        "end": 19,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 36,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "dysphagia developed for 8 hours",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 31,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "loss of appetite has worsened over for 8 hours",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 0,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 35,
+        "end": 46,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "edema has been present for for 2 months",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 39,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "the anorexia is debilitating",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 16,
+        "end": 28,
+        "label": "SEVERITY"
+      }
+    ]
+  },
+  {
+    "text": "experiencing referred palpitations for for 1 week",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 21,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 22,
+        "end": 34,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 39,
+        "end": 49,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient reports throbbing pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 16,
+        "end": 25,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 26,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "swelling has been present for since last month",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 46,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "numbness has been present for for 1 year",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 40,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing sudden amenorrhea",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 41,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "the chronic frequency began for 12 hours",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 11,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 12,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 40,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "the loss of appetite has improved",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "the localized sweating began since 2 days",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 13,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 14,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 41,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "the incontinence is referred",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 28,
+        "label": "SEVERITY"
+      }
+    ]
+  },
+  {
+    "text": "joint pain persists despite treatment",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient was complaining of intense soreness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 27,
+        "end": 34,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 35,
+        "end": 43,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient was complaining of dull dehydration",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 27,
+        "end": 31,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 32,
+        "end": 43,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports chronic chills",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 16,
+        "end": 23,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient notes weight loss for for 3 hours",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 14,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 41,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "the burning back pain began since childhood",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 11,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 12,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 43,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "the stiffness has improved",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient notes stiffness for for 12 hours",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 14,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 40,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient describes excruciating heartburn",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 18,
+        "end": 30,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 31,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "experiencing episodic bleeding for since 3 days",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 21,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 22,
+        "end": 30,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 35,
+        "end": 47,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "the hemoptysis started since 3 days",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 35,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "the seizures is unilateral",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 16,
+        "end": 26,
+        "label": "SEVERITY"
+      }
+    ]
+  },
+  {
+    "text": "experiencing recurrent stiffness for since childhood",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 22,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 23,
+        "end": 32,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 37,
+        "end": 52,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient notes weight loss for for 3 hours",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 14,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 41,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "the recurrent loss of appetite began since 3 days",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 13,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 14,
+        "end": 30,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 37,
+        "end": 49,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "numbness developed for 3 hours",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 30,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "discharge was noticed for 4 days",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 22,
+        "end": 32,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "experiencing aching abdominal pain for for 3 hours",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 19,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 20,
+        "end": 34,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 39,
+        "end": 50,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient describes severe blurred vision",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 18,
+        "end": 24,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 25,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "the persistent retention began for 2 weeks",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 14,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 15,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 42,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "the phonophobia has improved",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports searing stiffness",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 16,
+        "end": 23,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 24,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient feels unilateral muscle pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 25,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "the rash started for few days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 8,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 17,
+        "end": 29,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "abdominal pain has worsened over for 8 hours",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 0,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 44,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient reports bilateral soreness",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 16,
+        "end": 25,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 26,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient feels episodic hypoesthesia",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 14,
+        "end": 22,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 23,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient was complaining of crushing edema",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 27,
+        "end": 35,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 36,
+        "end": 41,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "burning persists despite treatment",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient describes cramping irritation",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 27,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports sharp stiffness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 21,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 22,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "tingling was noticed for 4 days",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 31,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient notes presyncope for since this morning",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 47,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "experiencing unilateral numbness for since 3 days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 23,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 24,
+        "end": 32,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 37,
+        "end": 49,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "diplopia has been present for for 1 year",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 40,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "bloating developed for few days",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 31,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "the bloating continues for since childhood",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 42,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing squeezing allodynia",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 24,
+        "end": 33,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 34,
+        "end": 43,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports cramping weakness",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 25,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "the bloating is radiating",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 16,
+        "end": 25,
+        "label": "SEVERITY"
+      }
+    ]
+  },
+  {
+    "text": "loss of appetite is progressively getting worse",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 0,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "bleeding is progressively getting worse",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "the bilateral urgency began for years",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 13,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 14,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 37,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "the colicky bloating began since childhood",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 11,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 42,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient notes dehydration for since morning",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 14,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 43,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient was complaining of sudden inflammation",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 27,
+        "end": 33,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 34,
+        "end": 46,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "the referred palpitations began for 1 week",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 13,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 42,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "the intense chills began since 3 days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 11,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 12,
+        "end": 18,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 37,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "the wheezing is crushing",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SEVERITY"
+      }
+    ]
+  },
+  {
+    "text": "fatigue has worsened over for 1 week",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 36,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "lesions has worsened over for 8 hours",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 37,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "experiencing squeezing vertigo for for 2 months",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 22,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 23,
+        "end": 30,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 35,
+        "end": 47,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient notes redness for since dawn",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 14,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 36,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "the loss of appetite has improved",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "seizures was noticed for 1 year",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 31,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "the stridor is gradual",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 11,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 15,
+        "end": 22,
+        "label": "SEVERITY"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing gnawing discharge",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 24,
+        "end": 31,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 32,
+        "end": 41,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "the epistaxis started for 1 week",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 13,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 22,
+        "end": 32,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "the cough has improved",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 9,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "hematuria persists despite treatment",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "the incontinence is mild",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 24,
+        "label": "SEVERITY"
+      }
+    ]
+  },
+  {
+    "text": "sob developed for 2 days",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 14,
+        "end": 24,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "phonophobia has worsened over since morning",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 43,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient describes recurrent spasms",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 18,
+        "end": 27,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 28,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "bleeding was noticed for 72 hours",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 33,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient feels acute soreness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 14,
+        "end": 19,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 20,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient describes stabbing hemoptysis",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 27,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports sharp vomiting",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 16,
+        "end": 21,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 22,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports episodic abdominal pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 25,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "abdominal pain has worsened over for 3 hours",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 0,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 44,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient feels unilateral presyncope",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 25,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "the vertigo is tight",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 11,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 15,
+        "end": 20,
+        "label": "SEVERITY"
+      }
+    ]
+  },
+  {
+    "text": "the hypoesthesia has improved",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pallor developed for 1 year",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 17,
+        "end": 27,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient describes intense retention",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 18,
+        "end": 25,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 26,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "blurred vision persists despite treatment",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 0,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constipation was noticed for 2 months",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 37,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient describes burning incontinence",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 18,
+        "end": 25,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 26,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports intermittent dysmenorrhea",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 16,
+        "end": 28,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 29,
+        "end": 41,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "discharge has been present for for 1 year",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 41,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "the bleeding is colicky",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 16,
+        "end": 23,
+        "label": "SEVERITY"
+      }
+    ]
+  },
+  {
+    "text": "nocturia was noticed since yesterday",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 36,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient feels unilateral hyperesthesia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 25,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "hearing loss developed for 1 month",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 34,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient describes diffuse incontinence",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 18,
+        "end": 25,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 26,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient notes dysphagia for since last night",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 14,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 44,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient was complaining of squeezing dysmenorrhea",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 27,
+        "end": 36,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 37,
+        "end": 49,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient notes constipation for since last night",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 14,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 47,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "the hyperesthesia started for 2 months",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 17,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 38,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "jaundice has worsened over for 4 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 37,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "pain is progressively getting worse",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "the lesions started for 2 weeks",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 11,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 31,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "the spasms continues for for few days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 10,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 37,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "the muscle pain started for 3 weeks",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 35,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient was complaining of colicky epistaxis",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 27,
+        "end": 34,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 35,
+        "end": 44,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "the shooting heartburn began since last week",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 13,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 44,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "stridor was noticed for 8 hours",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 31,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "experiencing sharp cough for since morning",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 18,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 19,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 42,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient was complaining of crushing irritation",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 27,
+        "end": 35,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 36,
+        "end": 46,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "diarrhea has been present for since 3 days",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 42,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "syncope developed for 6 hours",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 18,
+        "end": 29,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "the rigidity is diffuse",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 16,
+        "end": 23,
+        "label": "SEVERITY"
+      }
+    ]
+  },
+  {
+    "text": "insomnia is progressively getting worse",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "the constipation started for 6 hours",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 36,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "hypoesthesia persists despite treatment",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient was complaining of unilateral hearing loss",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 27,
+        "end": 37,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 38,
+        "end": 50,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient feels lancinating vomiting",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 14,
+        "end": 25,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 26,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports mild irritation",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 20,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 21,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "the back pain continues for for 48 hours",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 13,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 40,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "the presyncope started since dawn",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 33,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "paresthesia persists despite treatment",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient feels persistent palpitations",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 25,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient describes severe incontinence",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 18,
+        "end": 24,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 25,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient was complaining of aching paresthesia",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 27,
+        "end": 33,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 34,
+        "end": 45,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is experiencing constant irritation",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 24,
+        "end": 32,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 33,
+        "end": 43,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "tinnitus persists despite treatment",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "dysmenorrhea was noticed since morning",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 38,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient was complaining of shooting syncope",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 27,
+        "end": 35,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 36,
+        "end": 43,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "the swelling started since dawn",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 31,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "paresthesia is progressively getting worse",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "the stridor has improved",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient describes burning incontinence",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 18,
+        "end": 25,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 26,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient notes constipation for since last month",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 14,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 47,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient notes wheezing for since last night",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 14,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 43,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "diarrhea has been present for for 4 days",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 40,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient notes headache for since yesterday",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 14,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 42,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "the cramping numbness began since last night",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 13,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 44,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient reports pulsating scotoma",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 16,
+        "end": 25,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 26,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports unilateral allodynia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 16,
+        "end": 26,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 27,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient feels diffuse chills",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 14,
+        "end": 21,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 22,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "the scotoma continues for for 12 hours",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 11,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 38,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "the searing urgency began since yesterday",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 11,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 12,
+        "end": 19,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 41,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "sob persists despite treatment",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "the atrophy started for 3 weeks",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 11,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 31,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "rigidity persists despite treatment",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "the fatigue is lancinating",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 11,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 15,
+        "end": 26,
+        "label": "SEVERITY"
+      }
+    ]
+  },
+  {
+    "text": "cough persists despite treatment",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "palpitations developed for 48 hours",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 35,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient reports aching sob",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 16,
+        "end": 22,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 23,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "the hyperalgesia has improved",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  }
+]

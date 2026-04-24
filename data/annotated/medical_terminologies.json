@@ -1,0 +1,10320 @@
+[
+  {
+    "text": "patient presents with dyspnea and tachypnea since 3 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 43,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 50,
+        "end": 56,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "known asthmatic c/o severe bronchospasm and wheezing",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 20,
+        "end": 26,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 27,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 52,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports hemoptysis and orthopnea for 2 weeks",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 16,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 40,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 45,
+        "end": 52,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "c/o acute stridor and crepitations in bilateral lung fields",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 9,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 10,
+        "end": 17,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 22,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "drug trial showed reduction in dyspnea severity over 4 weeks",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 31,
+        "end": 38,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 39,
+        "end": 47,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 53,
+        "end": 60,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with copd presenting with rhonchi and severe dyspnea",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 17,
+        "label": "INDICATION"
+      },
+      {
+        "start": 34,
+        "end": 41,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 46,
+        "end": 52,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 53,
+        "end": 60,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mr visit: patient c/o tachypnea and hemoptysis for 1 week",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 22,
+        "end": 31,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 46,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 51,
+        "end": 57,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "clinical trial endpoint: resolution of orthopnea at 6 weeks",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 39,
+        "end": 48,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 52,
+        "end": 59,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with pulmonary fibrosis c/o progressive dyspnea and crepitations",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 31,
+        "label": "INDICATION"
+      },
+      {
+        "start": 36,
+        "end": 47,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 48,
+        "end": 55,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 60,
+        "end": 72,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "moderate wheezing and mild stridor noted on auscultation",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 9,
+        "end": 17,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 22,
+        "end": 26,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 27,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports nocturnal dyspnea and orthopnea since 2 weeks",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 26,
+        "end": 33,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 38,
+        "end": 47,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 54,
+        "end": 61,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "bronchospasm episodes occurring daily for 3 months in asthmatic patient",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 42,
+        "end": 50,
+        "label": "DURATION"
+      },
+      {
+        "start": 54,
+        "end": 63,
+        "label": "INDICATION"
+      }
+    ]
+  },
+  {
+    "text": "drug reduces tachypnea and improves oxygen saturation within 1 week",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 61,
+        "end": 67,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o hemoptysis and severe dyspnea for 5 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 33,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 34,
+        "end": 41,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 46,
+        "end": 52,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "rhonchi and crepitations bilaterally in known bronchiectasis patient",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 12,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 46,
+        "end": 60,
+        "label": "INDICATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with hypertension c/o palpitations and diaphoresis",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 25,
+        "label": "INDICATION"
+      },
+      {
+        "start": 30,
+        "end": 42,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 47,
+        "end": 58,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known ischemic heart disease presenting with angina pectoris and syncope",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 28,
+        "label": "INDICATION"
+      },
+      {
+        "start": 45,
+        "end": 60,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 65,
+        "end": 72,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports tachycardia and severe diaphoresis for 2 days",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 16,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 38,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 39,
+        "end": 50,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 55,
+        "end": 61,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "c/o bradycardia and bilateral pedal edema since 1 week",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 41,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 48,
+        "end": 54,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "drug trial: incidence of palpitations reduced at 8 weeks",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 25,
+        "end": 37,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 49,
+        "end": 56,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with congestive heart failure c/o edema and dyspnea",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 37,
+        "label": "INDICATION"
+      },
+      {
+        "start": 42,
+        "end": 47,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 52,
+        "end": 59,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mr report: patient on beta blocker c/o bradycardia and syncope",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 22,
+        "end": 34,
+        "label": "INDICATION"
+      },
+      {
+        "start": 39,
+        "end": 50,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 55,
+        "end": 62,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe angina pectoris and diaphoresis noted during stress test",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 7,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o palpitations and mild tachycardia for 3 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 33,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 34,
+        "end": 45,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 50,
+        "end": 56,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "clinical data shows syncope episodes in patients on antiarrhythmic therapy",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 20,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 52,
+        "end": 74,
+        "label": "INDICATION"
+      }
+    ]
+  },
+  {
+    "text": "known hypertensive with edema and diaphoresis for 1 week",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 6,
+        "end": 18,
+        "label": "INDICATION"
+      },
+      {
+        "start": 24,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 45,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 50,
+        "end": 56,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with acute tachycardia and angina pectoris",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 27,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 28,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 59,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mr visit: patient c/o palpitations and bilateral edema since 2 weeks",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 22,
+        "end": 34,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 49,
+        "end": 54,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 61,
+        "end": 68,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "drug reduces incidence of syncope and bradycardia in cardiac patients",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 26,
+        "end": 33,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 38,
+        "end": 49,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 53,
+        "end": 69,
+        "label": "INDICATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with arrhythmia c/o severe palpitations and diaphoresis",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 23,
+        "label": "INDICATION"
+      },
+      {
+        "start": 28,
+        "end": 34,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 35,
+        "end": 47,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 52,
+        "end": 63,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o dysphagia and dyspepsia for 2 weeks",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 35,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 40,
+        "end": 47,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "known cirrhotic patient presenting with ascites and hepatomegaly",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 40,
+        "end": 47,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 52,
+        "end": 64,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports hematemesis and melena since 3 days",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 16,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 38,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 45,
+        "end": 51,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "c/o hematochezia and severe abdominal pain for 1 week",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 27,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 28,
+        "end": 42,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 47,
+        "end": 53,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "drug trial: reduction in dyspepsia symptoms at 4 weeks",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 25,
+        "end": 34,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 47,
+        "end": 54,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with portal hypertension c/o ascites and splenomegaly",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 32,
+        "label": "INDICATION"
+      },
+      {
+        "start": 37,
+        "end": 44,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 49,
+        "end": 61,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mr report: patient c/o dysphagia and hematemesis for 5 days",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 23,
+        "end": 32,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 37,
+        "end": 48,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 53,
+        "end": 59,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "severe dyspepsia and mild dysphagia noted in post-gastrectomy patient",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 25,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 26,
+        "end": 35,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 45,
+        "end": 61,
+        "label": "INDICATION"
+      }
+    ]
+  },
+  {
+    "text": "patient reports melena and hematochezia since 2 days",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 16,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 46,
+        "end": 52,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "clinical data: hepatomegaly and ascites in patients with hepatitis b",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 57,
+        "end": 68,
+        "label": "INDICATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o severe dyspepsia and splenomegaly for 3 weeks",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 18,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 19,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 45,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 50,
+        "end": 57,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "mr visit: patient on ppi c/o persistent dysphagia for 1 month",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 24,
+        "label": "INDICATION"
+      },
+      {
+        "start": 29,
+        "end": 39,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 40,
+        "end": 49,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 54,
+        "end": 61,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "drug reduces hematemesis recurrence in cirrhotic patients at 12 weeks",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 39,
+        "end": 48,
+        "label": "INDICATION"
+      },
+      {
+        "start": 61,
+        "end": 69,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with ibd c/o hematochezia and melena for 4 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 16,
+        "label": "INDICATION"
+      },
+      {
+        "start": 21,
+        "end": 33,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 38,
+        "end": 44,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 49,
+        "end": 55,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "ascites and hepatomegaly in known alcoholic liver disease patient",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 12,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 57,
+        "label": "INDICATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o vertigo and ataxia since 2 days",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 19,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 37,
+        "end": 43,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "known epileptic presenting with seizure and paresthesia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 32,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 55,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports dysarthria and aphasia for 3 hours",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 38,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 43,
+        "end": 50,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "c/o severe vertigo and nystagmus since 1 week",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 10,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 11,
+        "end": 18,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 32,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 39,
+        "end": 45,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "drug trial: reduction in tremor severity at 6 weeks",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 25,
+        "end": 31,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 40,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 44,
+        "end": 51,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with parkinson's disease c/o tremor and ataxia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 32,
+        "label": "INDICATION"
+      },
+      {
+        "start": 37,
+        "end": 43,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 48,
+        "end": 54,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mr report: patient c/o paresthesia and dysarthria for 2 days",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 23,
+        "end": 34,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 39,
+        "end": 49,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 54,
+        "end": 60,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "severe ataxia and mild tremor noted in cerebellar patient",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 7,
+        "end": 13,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 18,
+        "end": 22,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 23,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 39,
+        "end": 49,
+        "label": "INDICATION"
+      }
+    ]
+  },
+  {
+    "text": "patient reports aphasia and seizure since 4 hours",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 16,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 35,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 42,
+        "end": 49,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "clinical data: nystagmus resolved in patients at 4 weeks post-treatment",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 49,
+        "end": 56,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with multiple sclerosis c/o paresthesia and vertigo",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 31,
+        "label": "INDICATION"
+      },
+      {
+        "start": 36,
+        "end": 47,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 52,
+        "end": 59,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mr visit: patient c/o acute vertigo and nystagmus for 3 days",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 22,
+        "end": 27,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 28,
+        "end": 35,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 40,
+        "end": 49,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 54,
+        "end": 60,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "drug reduces seizure frequency in epileptic patients over 3 months",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 43,
+        "label": "INDICATION"
+      },
+      {
+        "start": 58,
+        "end": 66,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o dysarthria and aphasia for 6 hours post-stroke",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 34,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 39,
+        "end": 46,
+        "label": "DURATION"
+      },
+      {
+        "start": 47,
+        "end": 58,
+        "label": "INDICATION"
+      }
+    ]
+  },
+  {
+    "text": "tremor and paresthesia in known parkinsonian patient for 2 months",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 11,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 44,
+        "label": "INDICATION"
+      },
+      {
+        "start": 57,
+        "end": 65,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o myalgia and arthralgia for 1 week",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 19,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 34,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 39,
+        "end": 45,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "known rheumatoid arthritis patient with crepitus and contracture",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 26,
+        "label": "INDICATION"
+      },
+      {
+        "start": 40,
+        "end": 48,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 53,
+        "end": 64,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mr report: patient c/o severe myalgia and muscle spasm for 3 days",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 23,
+        "end": 29,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 30,
+        "end": 37,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 42,
+        "end": 54,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 59,
+        "end": 65,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "drug trial: reduction in arthralgia at 4 weeks in ra patients",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 25,
+        "end": 35,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 39,
+        "end": 46,
+        "label": "DURATION"
+      },
+      {
+        "start": 50,
+        "end": 61,
+        "label": "INDICATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with osteoarthritis c/o crepitus and severe arthralgia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 27,
+        "label": "INDICATION"
+      },
+      {
+        "start": 32,
+        "end": 40,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 45,
+        "end": 51,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 52,
+        "end": 62,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "c/o bilateral myalgia and contracture since 2 weeks",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 14,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 37,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 51,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "mr visit: patient on nsaids c/o persistent arthralgia for 1 month",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 27,
+        "label": "INDICATION"
+      },
+      {
+        "start": 32,
+        "end": 42,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 43,
+        "end": 53,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 58,
+        "end": 65,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "drug reduces crepitus and myalgia in osteoporotic patients at 8 weeks",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 33,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 37,
+        "end": 49,
+        "label": "INDICATION"
+      },
+      {
+        "start": 62,
+        "end": 69,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient reports muscle spasm and severe myalgia for 5 days",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 16,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 39,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 40,
+        "end": 47,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 52,
+        "end": 58,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "known fibromyalgia patient c/o diffuse myalgia and arthralgia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 18,
+        "label": "INDICATION"
+      },
+      {
+        "start": 31,
+        "end": 38,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 39,
+        "end": 46,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 51,
+        "end": 61,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o pyrexia and malaise for 3 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 19,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 31,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 42,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "known tb patient presenting with cachexia and anorexia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "label": "INDICATION"
+      },
+      {
+        "start": 33,
+        "end": 41,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 46,
+        "end": 54,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports pallor and cyanosis since 2 days",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 16,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 35,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 42,
+        "end": 48,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "c/o severe jaundice and pruritus for 1 week",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 10,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 11,
+        "end": 19,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 32,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 37,
+        "end": 43,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "drug trial: improvement in malaise and anorexia at 2 weeks",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 27,
+        "end": 34,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 39,
+        "end": 47,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 51,
+        "end": 58,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with chronic liver disease c/o jaundice and pruritus",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 34,
+        "label": "INDICATION"
+      },
+      {
+        "start": 39,
+        "end": 47,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 52,
+        "end": 60,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mr report: patient c/o pyrexia and severe malaise for 4 days",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 23,
+        "end": 30,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 35,
+        "end": 41,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 42,
+        "end": 49,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 54,
+        "end": 60,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "cachexia and pallor noted in advanced malignancy patient",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 13,
+        "end": 19,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 38,
+        "end": 48,
+        "label": "INDICATION"
+      }
+    ]
+  },
+  {
+    "text": "patient reports cyanosis and pallor since 3 days",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 35,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 42,
+        "end": 48,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "clinical data: reduction in pyrexia and malaise at 3 days post-dose",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 28,
+        "end": 35,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 40,
+        "end": 47,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 51,
+        "end": 57,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with hypothyroidism c/o malaise and anorexia for 2 weeks",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 27,
+        "label": "INDICATION"
+      },
+      {
+        "start": 32,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 52,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 57,
+        "end": 64,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "mr visit: patient c/o jaundice and pruritus since 1 week",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 22,
+        "end": 30,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 35,
+        "end": 43,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 50,
+        "end": 56,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "drug reduces pyrexia duration and improves malaise in febrile patients",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 43,
+        "end": 50,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 54,
+        "end": 61,
+        "label": "INDICATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o severe cachexia and cyanosis for 3 weeks",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 18,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 19,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 40,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 45,
+        "end": 52,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "known malignancy patient presenting with anorexia and pallor",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 16,
+        "label": "INDICATION"
+      },
+      {
+        "start": 41,
+        "end": 49,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 54,
+        "end": 60,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o dysuria and hematuria for 3 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 19,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 33,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 38,
+        "end": 44,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "known diabetic c/o polyuria and oliguria since 1 week",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 14,
+        "label": "INDICATION"
+      },
+      {
+        "start": 19,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 40,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 47,
+        "end": 53,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "mr report: patient on diuretic c/o oliguria and hematuria for 2 days",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 22,
+        "end": 30,
+        "label": "INDICATION"
+      },
+      {
+        "start": 35,
+        "end": 43,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 48,
+        "end": 57,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 62,
+        "end": 68,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "drug trial: reduction in dysuria and polyuria at 1 week",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 25,
+        "end": 32,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 37,
+        "end": 45,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 49,
+        "end": 55,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with uti c/o severe dysuria and hematuria for 4 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 16,
+        "label": "INDICATION"
+      },
+      {
+        "start": 21,
+        "end": 27,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 28,
+        "end": 35,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 40,
+        "end": 49,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 54,
+        "end": 60,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o erythema and urticaria since 2 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 34,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 41,
+        "end": 47,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "known allergic patient presenting with petechiae and ecchymosis",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 14,
+        "label": "INDICATION"
+      },
+      {
+        "start": 39,
+        "end": 48,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 53,
+        "end": 63,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mr report: patient on anticoagulant c/o ecchymosis and petechiae for 3 days",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 22,
+        "end": 35,
+        "label": "INDICATION"
+      },
+      {
+        "start": 40,
+        "end": 50,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 55,
+        "end": 64,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 69,
+        "end": 75,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "drug trial: incidence of urticaria and erythema at 2 weeks",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 25,
+        "end": 34,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 39,
+        "end": 47,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 51,
+        "end": 58,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o alopecia and severe pruritus for 1 month",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 31,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 32,
+        "end": 40,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 45,
+        "end": 52,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "known psoriatic patient c/o erythema and pruritus since 2 weeks",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 28,
+        "end": 36,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 41,
+        "end": 49,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 56,
+        "end": 63,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "mr visit: patient c/o urticaria and alopecia for 3 weeks",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 22,
+        "end": 31,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 44,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 49,
+        "end": 56,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "drug reduces erythema and ecchymosis in dermatitis patients at 4 weeks",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 36,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 40,
+        "end": 50,
+        "label": "INDICATION"
+      },
+      {
+        "start": 63,
+        "end": 70,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient reports petechiae and ecchymosis since 3 days",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 16,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 40,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 47,
+        "end": 53,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "severe erythema and urticaria noted in known drug allergy patient",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 45,
+        "end": 57,
+        "label": "INDICATION"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o myocardial infarction with dysarthria and odynophagia",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 25,
+        "label": "INDICATION"
+      },
+      {
+        "start": 31,
+        "end": 41,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 46,
+        "end": 57,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o esophageal varices with cephalgia and angina",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 22,
+        "label": "INDICATION"
+      },
+      {
+        "start": 28,
+        "end": 37,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 42,
+        "end": 48,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with myalgia diaphoresis and scotoma",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 22,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 41,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 46,
+        "end": 53,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with paresthesia paroxysmal nocturnal dyspnea and dysarthria",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 22,
+        "end": 33,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 62,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 67,
+        "end": 77,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o portal hypertension with pyrexia and myalgia",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 23,
+        "label": "INDICATION"
+      },
+      {
+        "start": 29,
+        "end": 36,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 41,
+        "end": 48,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with polyuria tachycardia and diaphoresis",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 22,
+        "end": 30,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 42,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 47,
+        "end": 58,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known atrial fibrillation c/o dysarthria malaise and melena",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 6,
+        "end": 25,
+        "label": "INDICATION"
+      },
+      {
+        "start": 30,
+        "end": 40,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 41,
+        "end": 48,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 53,
+        "end": 59,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with polyuria melena and myalgia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 22,
+        "end": 30,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 37,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 42,
+        "end": 49,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with dysphagia scotoma and myalgia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 31,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 51,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with chronic obstructive pulmonary disease reports oliguria and otalgia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 50,
+        "label": "INDICATION"
+      },
+      {
+        "start": 59,
+        "end": 67,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 72,
+        "end": 79,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with peripheral arterial disease reports epistaxis and myalgia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 40,
+        "label": "INDICATION"
+      },
+      {
+        "start": 49,
+        "end": 58,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 63,
+        "end": 70,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with pyrexia claudication and oliguria",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 22,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 42,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 47,
+        "end": 55,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with presyncope angina and hemoptysis",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 22,
+        "end": 32,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 54,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with cerebrovascular accident reports dysphagia and odynophagia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 37,
+        "label": "INDICATION"
+      },
+      {
+        "start": 46,
+        "end": 55,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 60,
+        "end": 71,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known portal hypertension c/o polydipsia epistaxis and anuria",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 6,
+        "end": 25,
+        "label": "INDICATION"
+      },
+      {
+        "start": 30,
+        "end": 40,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 41,
+        "end": 50,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 55,
+        "end": 61,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o end stage renal disease with paresthesia and syncope",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 27,
+        "label": "INDICATION"
+      },
+      {
+        "start": 33,
+        "end": 44,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 49,
+        "end": 56,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with paresthesia pyrexia and odynophagia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 22,
+        "end": 33,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 41,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 46,
+        "end": 57,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known peripheral arterial disease c/o malaise hematemesis and angina",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 33,
+        "label": "INDICATION"
+      },
+      {
+        "start": 38,
+        "end": 45,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 46,
+        "end": 57,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 62,
+        "end": 68,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with photophobia presyncope and odynophagia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 33,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 44,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 49,
+        "end": 60,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with odynophagia cephalgia and bradycardia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 33,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 43,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 48,
+        "end": 59,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with acute coronary syndrome reports odynophagia and bradycardia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 36,
+        "label": "INDICATION"
+      },
+      {
+        "start": 45,
+        "end": 56,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 61,
+        "end": 72,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with deep vein thrombosis reports polydipsia and pyrexia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 33,
+        "label": "INDICATION"
+      },
+      {
+        "start": 42,
+        "end": 52,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 57,
+        "end": 64,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known acute coronary syndrome c/o epistaxis presyncope and diaphoresis",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 6,
+        "end": 29,
+        "label": "INDICATION"
+      },
+      {
+        "start": 34,
+        "end": 43,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 54,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 59,
+        "end": 70,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with epistaxis cephalgia and photophobia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 22,
+        "end": 31,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 41,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 46,
+        "end": 57,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o esophageal varices with odynophagia and polyuria",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 22,
+        "label": "INDICATION"
+      },
+      {
+        "start": 28,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 52,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with scotoma anuria and polyuria",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 22,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 36,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 41,
+        "end": 49,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known end stage renal disease c/o presyncope claudication and diplopia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 6,
+        "end": 29,
+        "label": "INDICATION"
+      },
+      {
+        "start": 34,
+        "end": 44,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 45,
+        "end": 57,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 62,
+        "end": 70,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with diaphoresis cephalgia and epistaxis",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 22,
+        "end": 33,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 43,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 48,
+        "end": 57,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with odynophagia hematuria and aphasia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 22,
+        "end": 33,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 43,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 48,
+        "end": 55,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known acute coronary syndrome c/o orthopnea photophobia and orthopnea",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 6,
+        "end": 29,
+        "label": "INDICATION"
+      },
+      {
+        "start": 34,
+        "end": 43,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 55,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known esophageal varices c/o dysphagia polydipsia and polydipsia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 6,
+        "end": 24,
+        "label": "INDICATION"
+      },
+      {
+        "start": 29,
+        "end": 38,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 39,
+        "end": 49,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o acute coronary syndrome with malaise and myalgia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 27,
+        "label": "INDICATION"
+      },
+      {
+        "start": 33,
+        "end": 40,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 45,
+        "end": 52,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with cerebrovascular accident reports dyspnea and arthralgia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 37,
+        "label": "INDICATION"
+      },
+      {
+        "start": 46,
+        "end": 53,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 58,
+        "end": 68,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o end stage renal disease with diplopia and cephalgia",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 27,
+        "label": "INDICATION"
+      },
+      {
+        "start": 33,
+        "end": 41,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 46,
+        "end": 55,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with melena photophobia and angina",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 22,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 40,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 45,
+        "end": 51,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o myocardial infarction with cephalgia and paroxysmal nocturnal dyspnea",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 25,
+        "label": "INDICATION"
+      },
+      {
+        "start": 31,
+        "end": 40,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 45,
+        "end": 73,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known end stage renal disease c/o angina pyrexia and paresthesia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 6,
+        "end": 29,
+        "label": "INDICATION"
+      },
+      {
+        "start": 34,
+        "end": 40,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 41,
+        "end": 48,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 53,
+        "end": 64,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with myalgia orthopnea and scotoma",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 51,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with end stage renal disease reports diaphoresis and melena",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 36,
+        "label": "INDICATION"
+      },
+      {
+        "start": 45,
+        "end": 56,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 61,
+        "end": 67,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with paresthesia arthralgia and aphasia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 33,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 44,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 49,
+        "end": 56,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o portal hypertension with oliguria and otalgia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 23,
+        "label": "INDICATION"
+      },
+      {
+        "start": 29,
+        "end": 37,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 42,
+        "end": 49,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known ventricular tachycardia c/o hematuria dyspnea and myalgia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 29,
+        "label": "INDICATION"
+      },
+      {
+        "start": 34,
+        "end": 43,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 51,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 56,
+        "end": 63,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known peripheral arterial disease c/o pyrexia presyncope and hemoptysis",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 33,
+        "label": "INDICATION"
+      },
+      {
+        "start": 38,
+        "end": 45,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 46,
+        "end": 56,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 61,
+        "end": 71,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with angina diaphoresis and epistaxis",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 22,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 40,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 45,
+        "end": 54,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o cerebrovascular accident with polydipsia and angina",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 28,
+        "label": "INDICATION"
+      },
+      {
+        "start": 34,
+        "end": 44,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 49,
+        "end": 55,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o hepatic encephalopathy with paroxysmal nocturnal dyspnea and oliguria",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 26,
+        "label": "INDICATION"
+      },
+      {
+        "start": 32,
+        "end": 60,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 65,
+        "end": 73,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with paroxysmal nocturnal dyspnea diplopia and otalgia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 22,
+        "end": 50,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 51,
+        "end": 59,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 64,
+        "end": 71,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with atrial fibrillation reports orthopnea and otalgia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 32,
+        "label": "INDICATION"
+      },
+      {
+        "start": 41,
+        "end": 50,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 55,
+        "end": 62,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with peripheral arterial disease reports dysarthria and paroxysmal nocturnal dyspnea",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 40,
+        "label": "INDICATION"
+      },
+      {
+        "start": 49,
+        "end": 59,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 64,
+        "end": 92,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with chronic obstructive pulmonary disease reports pyrexia and melena",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 50,
+        "label": "INDICATION"
+      },
+      {
+        "start": 59,
+        "end": 66,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 71,
+        "end": 77,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o atrial fibrillation with hematuria and polyuria",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 23,
+        "label": "INDICATION"
+      },
+      {
+        "start": 29,
+        "end": 38,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 43,
+        "end": 51,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o chronic obstructive pulmonary disease with claudication and scotoma",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 41,
+        "label": "INDICATION"
+      },
+      {
+        "start": 47,
+        "end": 59,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 64,
+        "end": 71,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with paresthesia epistaxis and diplopia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 22,
+        "end": 33,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 43,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 48,
+        "end": 56,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o peripheral arterial disease with odynophagia and polyuria",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 31,
+        "label": "INDICATION"
+      },
+      {
+        "start": 37,
+        "end": 48,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 53,
+        "end": 61,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o chronic kidney disease with otalgia and epistaxis",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 26,
+        "label": "INDICATION"
+      },
+      {
+        "start": 32,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 53,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known congestive heart failure c/o orthopnea photophobia and syncope",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 6,
+        "end": 30,
+        "label": "INDICATION"
+      },
+      {
+        "start": 35,
+        "end": 44,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 45,
+        "end": 56,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 61,
+        "end": 68,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known portal hypertension c/o bradycardia phonophobia and dysarthria",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 25,
+        "label": "INDICATION"
+      },
+      {
+        "start": 30,
+        "end": 41,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 42,
+        "end": 53,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 58,
+        "end": 68,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with phonophobia hematuria and malaise",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 33,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 43,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 48,
+        "end": 55,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o chronic obstructive pulmonary disease with angina and diaphoresis",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 41,
+        "label": "INDICATION"
+      },
+      {
+        "start": 47,
+        "end": 53,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 58,
+        "end": 69,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with phonophobia syncope and scotoma",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 22,
+        "end": 33,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 41,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 46,
+        "end": 53,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with ventricular tachycardia reports paresthesia and presyncope",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 36,
+        "label": "INDICATION"
+      },
+      {
+        "start": 45,
+        "end": 56,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 61,
+        "end": 71,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with cephalgia malaise and dysphagia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 22,
+        "end": 31,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 53,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o portal hypertension with diplopia and aphasia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 23,
+        "label": "INDICATION"
+      },
+      {
+        "start": 29,
+        "end": 37,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 42,
+        "end": 49,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with paroxysmal nocturnal dyspnea polyuria and syncope",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 22,
+        "end": 50,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 51,
+        "end": 59,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 64,
+        "end": 71,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with chronic obstructive pulmonary disease reports myalgia and polyuria",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 50,
+        "label": "INDICATION"
+      },
+      {
+        "start": 59,
+        "end": 66,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 71,
+        "end": 79,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with deep vein thrombosis reports syncope and malaise",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 33,
+        "label": "INDICATION"
+      },
+      {
+        "start": 42,
+        "end": 49,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 54,
+        "end": 61,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with polydipsia pyrexia and claudication",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 32,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 40,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 45,
+        "end": 57,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with chronic kidney disease reports polydipsia and phonophobia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 35,
+        "label": "INDICATION"
+      },
+      {
+        "start": 44,
+        "end": 54,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 59,
+        "end": 70,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known hepatic encephalopathy c/o bradycardia dysarthria and polydipsia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 28,
+        "label": "INDICATION"
+      },
+      {
+        "start": 33,
+        "end": 44,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 45,
+        "end": 55,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 60,
+        "end": 70,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with portal hypertension reports photophobia and dysarthria",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 32,
+        "label": "INDICATION"
+      },
+      {
+        "start": 41,
+        "end": 52,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 57,
+        "end": 67,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o hepatic encephalopathy with hemoptysis and myalgia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 26,
+        "label": "INDICATION"
+      },
+      {
+        "start": 32,
+        "end": 42,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 47,
+        "end": 54,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known congestive heart failure c/o phonophobia orthopnea and scotoma",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 6,
+        "end": 30,
+        "label": "INDICATION"
+      },
+      {
+        "start": 35,
+        "end": 46,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 47,
+        "end": 56,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 61,
+        "end": 68,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known deep vein thrombosis c/o orthopnea hematuria and scotoma",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 26,
+        "label": "INDICATION"
+      },
+      {
+        "start": 31,
+        "end": 40,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 41,
+        "end": 50,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 55,
+        "end": 62,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with dysphagia syncope and hematuria",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 22,
+        "end": 31,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 53,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with myocardial infarction reports dysphagia and pyrexia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 34,
+        "label": "INDICATION"
+      },
+      {
+        "start": 43,
+        "end": 52,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 57,
+        "end": 64,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o esophageal varices with pyrexia and bradycardia",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 22,
+        "label": "INDICATION"
+      },
+      {
+        "start": 28,
+        "end": 35,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 40,
+        "end": 51,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with peripheral arterial disease reports syncope and dysarthria",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 40,
+        "label": "INDICATION"
+      },
+      {
+        "start": 49,
+        "end": 56,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 61,
+        "end": 71,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with chronic kidney disease reports malaise and paroxysmal nocturnal dyspnea",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 35,
+        "label": "INDICATION"
+      },
+      {
+        "start": 44,
+        "end": 51,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 56,
+        "end": 84,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with malaise presyncope and hematuria",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 40,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 45,
+        "end": 54,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o pulmonary embolism with phonophobia and oliguria",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 22,
+        "label": "INDICATION"
+      },
+      {
+        "start": 28,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 52,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o chronic kidney disease with orthopnea and syncope",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 26,
+        "label": "INDICATION"
+      },
+      {
+        "start": 32,
+        "end": 41,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 46,
+        "end": 53,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o myocardial infarction with angina and pyrexia",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 25,
+        "label": "INDICATION"
+      },
+      {
+        "start": 31,
+        "end": 37,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 42,
+        "end": 49,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known peripheral arterial disease c/o tachycardia melena and dyspnea",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 33,
+        "label": "INDICATION"
+      },
+      {
+        "start": 38,
+        "end": 49,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 50,
+        "end": 56,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 61,
+        "end": 68,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o chronic kidney disease with tachycardia and oliguria",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 26,
+        "label": "INDICATION"
+      },
+      {
+        "start": 32,
+        "end": 43,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 48,
+        "end": 56,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known portal hypertension c/o dysarthria diaphoresis and phonophobia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 6,
+        "end": 25,
+        "label": "INDICATION"
+      },
+      {
+        "start": 30,
+        "end": 40,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 41,
+        "end": 52,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 57,
+        "end": 68,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with polydipsia syncope and hemoptysis",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 22,
+        "end": 32,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 40,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 45,
+        "end": 55,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known hepatic encephalopathy c/o cephalgia claudication and melena",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 28,
+        "label": "INDICATION"
+      },
+      {
+        "start": 33,
+        "end": 42,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 43,
+        "end": 55,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 60,
+        "end": 66,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known portal hypertension c/o paresthesia claudication and anuria",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 6,
+        "end": 25,
+        "label": "INDICATION"
+      },
+      {
+        "start": 30,
+        "end": 41,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 42,
+        "end": 54,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 59,
+        "end": 65,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o deep vein thrombosis with hematuria and odynophagia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 24,
+        "label": "INDICATION"
+      },
+      {
+        "start": 30,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 55,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with phonophobia angina and photophobia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 22,
+        "end": 33,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 40,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 45,
+        "end": 56,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with hemoptysis aphasia and dysphagia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 22,
+        "end": 32,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 40,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 45,
+        "end": 54,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o deep vein thrombosis with odynophagia and tachycardia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 24,
+        "label": "INDICATION"
+      },
+      {
+        "start": 30,
+        "end": 41,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 46,
+        "end": 57,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known atrial fibrillation c/o scotoma paroxysmal nocturnal dyspnea and paroxysmal nocturnal dyspnea",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 25,
+        "label": "INDICATION"
+      },
+      {
+        "start": 30,
+        "end": 37,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 38,
+        "end": 66,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with cephalgia dysphagia and malaise",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 22,
+        "end": 31,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 41,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 46,
+        "end": 53,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with portal hypertension reports hemoptysis and tachycardia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 32,
+        "label": "INDICATION"
+      },
+      {
+        "start": 41,
+        "end": 51,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 56,
+        "end": 67,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known end stage renal disease c/o dysarthria pyrexia and epistaxis",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 6,
+        "end": 29,
+        "label": "INDICATION"
+      },
+      {
+        "start": 34,
+        "end": 44,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 45,
+        "end": 52,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 57,
+        "end": 66,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o chronic kidney disease with diaphoresis and syncope",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 26,
+        "label": "INDICATION"
+      },
+      {
+        "start": 32,
+        "end": 43,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 48,
+        "end": 55,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with photophobia paroxysmal nocturnal dyspnea and myalgia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 33,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 62,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 67,
+        "end": 74,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with photophobia hematemesis and oliguria",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 22,
+        "end": 33,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 45,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 50,
+        "end": 58,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o myocardial infarction with claudication and orthopnea",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 25,
+        "label": "INDICATION"
+      },
+      {
+        "start": 31,
+        "end": 43,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 48,
+        "end": 57,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with end stage renal disease reports dysarthria and claudication",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 36,
+        "label": "INDICATION"
+      },
+      {
+        "start": 45,
+        "end": 55,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 60,
+        "end": 72,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known myocardial infarction c/o hematemesis oliguria and epistaxis",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 6,
+        "end": 27,
+        "label": "INDICATION"
+      },
+      {
+        "start": 32,
+        "end": 43,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 52,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 57,
+        "end": 66,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with paroxysmal nocturnal dyspnea oliguria and syncope",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 22,
+        "end": 50,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 51,
+        "end": 59,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 64,
+        "end": 71,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known atrial fibrillation c/o phonophobia angina and pyrexia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 25,
+        "label": "INDICATION"
+      },
+      {
+        "start": 30,
+        "end": 41,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 42,
+        "end": 48,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 53,
+        "end": 60,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o hepatic encephalopathy with arthralgia and hemoptysis",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 26,
+        "label": "INDICATION"
+      },
+      {
+        "start": 32,
+        "end": 42,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 47,
+        "end": 57,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known end stage renal disease c/o diplopia cephalgia and paroxysmal nocturnal dyspnea",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 29,
+        "label": "INDICATION"
+      },
+      {
+        "start": 34,
+        "end": 42,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 43,
+        "end": 52,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 57,
+        "end": 85,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with portal hypertension reports tachycardia and otalgia",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 32,
+        "label": "INDICATION"
+      },
+      {
+        "start": 41,
+        "end": 52,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 57,
+        "end": 64,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with malaise dyspnea and hemoptysis",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 22,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 37,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 42,
+        "end": 52,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o acute coronary syndrome with hematuria and tachycardia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 27,
+        "label": "INDICATION"
+      },
+      {
+        "start": 33,
+        "end": 42,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 47,
+        "end": 58,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with ventricular tachycardia reports malaise and dysphagia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 36,
+        "label": "INDICATION"
+      },
+      {
+        "start": 45,
+        "end": 52,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 57,
+        "end": 66,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with oliguria odynophagia and polydipsia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 30,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 42,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 47,
+        "end": 57,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with otalgia oliguria and paresthesia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 22,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 38,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 43,
+        "end": 54,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with syncope orthopnea and diplopia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 22,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 52,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with polydipsia pyrexia and hematuria",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 22,
+        "end": 32,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 40,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 45,
+        "end": 54,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o portal hypertension with presyncope and dysarthria",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 23,
+        "label": "INDICATION"
+      },
+      {
+        "start": 29,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 54,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known peripheral arterial disease c/o arthralgia dysphagia and melena",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 6,
+        "end": 33,
+        "label": "INDICATION"
+      },
+      {
+        "start": 38,
+        "end": 48,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 49,
+        "end": 58,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 63,
+        "end": 69,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o peripheral arterial disease with hematuria and polydipsia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 31,
+        "label": "INDICATION"
+      },
+      {
+        "start": 37,
+        "end": 46,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 51,
+        "end": 61,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known peripheral arterial disease c/o claudication myalgia and bradycardia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 6,
+        "end": 33,
+        "label": "INDICATION"
+      },
+      {
+        "start": 38,
+        "end": 50,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 51,
+        "end": 58,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 63,
+        "end": 74,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o pulmonary embolism with angina and otalgia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 22,
+        "label": "INDICATION"
+      },
+      {
+        "start": 28,
+        "end": 34,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 39,
+        "end": 46,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known hepatic encephalopathy c/o phonophobia orthopnea and arthralgia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 28,
+        "label": "INDICATION"
+      },
+      {
+        "start": 33,
+        "end": 44,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 45,
+        "end": 54,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 59,
+        "end": 69,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known atrial fibrillation c/o polyuria bradycardia and paresthesia",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 6,
+        "end": 25,
+        "label": "INDICATION"
+      },
+      {
+        "start": 30,
+        "end": 38,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 39,
+        "end": 50,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 55,
+        "end": 66,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known pulmonary embolism c/o paroxysmal nocturnal dyspnea polyuria and bradycardia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 24,
+        "label": "INDICATION"
+      },
+      {
+        "start": 29,
+        "end": 57,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 58,
+        "end": 66,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 71,
+        "end": 82,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with esophageal varices reports arthralgia and syncope",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 31,
+        "label": "INDICATION"
+      },
+      {
+        "start": 40,
+        "end": 50,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 55,
+        "end": 62,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with anuria paresthesia and presyncope",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 22,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 40,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 45,
+        "end": 55,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known pulmonary embolism c/o otalgia orthopnea and tachycardia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 24,
+        "label": "INDICATION"
+      },
+      {
+        "start": 29,
+        "end": 36,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 37,
+        "end": 46,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 51,
+        "end": 62,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "presenting with melena claudication and orthopnea",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 16,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 35,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 40,
+        "end": 49,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known chronic obstructive pulmonary disease c/o claudication cephalgia and aphasia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 6,
+        "end": 43,
+        "label": "INDICATION"
+      },
+      {
+        "start": 48,
+        "end": 60,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 61,
+        "end": 70,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 75,
+        "end": 82,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "presenting with lymphadenopathy oliguria and paroxysmal nocturnal dyspnea",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 31,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 40,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 45,
+        "end": 73,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known esophageal varices c/o oliguria otalgia and dysarthria",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 6,
+        "end": 24,
+        "label": "INDICATION"
+      },
+      {
+        "start": 29,
+        "end": 37,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 38,
+        "end": 45,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 50,
+        "end": 60,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known atrial fibrillation c/o paresthesia epistaxis and polydipsia",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 6,
+        "end": 25,
+        "label": "INDICATION"
+      },
+      {
+        "start": 30,
+        "end": 41,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 42,
+        "end": 51,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 56,
+        "end": 66,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with portal hypertension reports ascites and arthralgia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 32,
+        "label": "INDICATION"
+      },
+      {
+        "start": 41,
+        "end": 48,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 53,
+        "end": 63,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o portal hypertension presenting with paroxysmal nocturnal dyspnea and polyuria",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 23,
+        "label": "INDICATION"
+      },
+      {
+        "start": 40,
+        "end": 68,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 73,
+        "end": 81,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known esophageal varices c/o otalgia dyspnea and pyrexia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 24,
+        "label": "INDICATION"
+      },
+      {
+        "start": 29,
+        "end": 36,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 37,
+        "end": 44,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 49,
+        "end": 56,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o chronic kidney disease presenting with orthopnea and melena",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 26,
+        "label": "INDICATION"
+      },
+      {
+        "start": 43,
+        "end": 52,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 57,
+        "end": 63,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with ventricular tachycardia reports diaphoresis and cephalgia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 36,
+        "label": "INDICATION"
+      },
+      {
+        "start": 45,
+        "end": 56,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 61,
+        "end": 70,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with diabetic ketoacidosis reports dyspnea and syncope",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 34,
+        "label": "INDICATION"
+      },
+      {
+        "start": 43,
+        "end": 50,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 55,
+        "end": 62,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o atrial fibrillation presenting with phonophobia and odynophagia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 23,
+        "label": "INDICATION"
+      },
+      {
+        "start": 40,
+        "end": 51,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 56,
+        "end": 67,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known acute respiratory distress syndrome c/o dysarthria tachycardia and dysphagia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 41,
+        "label": "INDICATION"
+      },
+      {
+        "start": 46,
+        "end": 56,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 57,
+        "end": 68,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 73,
+        "end": 82,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with pyrexia paresthesia and aphasia",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 22,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 41,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 46,
+        "end": 53,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o chronic obstructive pulmonary disease with hepatomegaly and splenomegaly",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 41,
+        "label": "INDICATION"
+      },
+      {
+        "start": 47,
+        "end": 59,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 64,
+        "end": 76,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o hepatic encephalopathy presenting with dysphagia and splenomegaly",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 26,
+        "label": "INDICATION"
+      },
+      {
+        "start": 43,
+        "end": 52,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 57,
+        "end": 69,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o peripheral arterial disease presenting with hematemesis and cephalgia",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 31,
+        "label": "INDICATION"
+      },
+      {
+        "start": 48,
+        "end": 59,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 64,
+        "end": 73,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with malaise diplopia and polydipsia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 22,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 38,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 43,
+        "end": 53,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with congestive heart failure reports arthralgia and presyncope",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 37,
+        "label": "INDICATION"
+      },
+      {
+        "start": 46,
+        "end": 56,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 61,
+        "end": 71,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "presenting with photophobia dysarthria and splenomegaly",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 16,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 38,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 43,
+        "end": 55,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "presenting with scotoma lymphadenopathy and hematemesis",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 16,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 55,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "presenting with arthralgia epistaxis and hematemesis",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 16,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 36,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 41,
+        "end": 52,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with end stage renal disease reports syncope and dysphagia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 36,
+        "label": "INDICATION"
+      },
+      {
+        "start": 45,
+        "end": 52,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 57,
+        "end": 66,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with hemoptysis presyncope and syncope",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 22,
+        "end": 32,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 43,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o portal hypertension with dysphagia and otalgia",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 23,
+        "label": "INDICATION"
+      },
+      {
+        "start": 29,
+        "end": 38,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 43,
+        "end": 50,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "presenting with splenomegaly claudication and hematemesis",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 16,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 41,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 46,
+        "end": 57,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "presenting with pleural effusion polydipsia and phonophobia",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 16,
+        "end": 32,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 43,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 48,
+        "end": 59,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with portal hypertension reports syncope and phonophobia",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 32,
+        "label": "INDICATION"
+      },
+      {
+        "start": 41,
+        "end": 48,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 53,
+        "end": 64,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known acute respiratory distress syndrome c/o myalgia cephalgia and hepatomegaly",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 41,
+        "label": "INDICATION"
+      },
+      {
+        "start": 46,
+        "end": 53,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 54,
+        "end": 63,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 68,
+        "end": 80,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with aphasia orthopnea and oliguria",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 52,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known pulmonary embolism c/o arthralgia claudication and paroxysmal nocturnal dyspnea",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 6,
+        "end": 24,
+        "label": "INDICATION"
+      },
+      {
+        "start": 29,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 40,
+        "end": 52,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 57,
+        "end": 85,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known end stage renal disease c/o orthopnea phonophobia and paroxysmal nocturnal dyspnea",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 29,
+        "label": "INDICATION"
+      },
+      {
+        "start": 34,
+        "end": 43,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 55,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 60,
+        "end": 88,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o deep vein thrombosis presenting with dysarthria and phonophobia",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 24,
+        "label": "INDICATION"
+      },
+      {
+        "start": 41,
+        "end": 51,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 56,
+        "end": 67,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o acute coronary syndrome with polyuria and orthopnea",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 27,
+        "label": "INDICATION"
+      },
+      {
+        "start": 33,
+        "end": 41,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 46,
+        "end": 55,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o cerebrovascular accident presenting with arthralgia and dysphagia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 28,
+        "label": "INDICATION"
+      },
+      {
+        "start": 45,
+        "end": 55,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 60,
+        "end": 69,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known chronic kidney disease c/o scotoma tachycardia and otalgia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 28,
+        "label": "INDICATION"
+      },
+      {
+        "start": 33,
+        "end": 40,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 41,
+        "end": 52,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 57,
+        "end": 64,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known pulmonary embolism c/o splenomegaly aphasia and diaphoresis",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 24,
+        "label": "INDICATION"
+      },
+      {
+        "start": 29,
+        "end": 41,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 42,
+        "end": 49,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 54,
+        "end": 65,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "presenting with cephalgia splenomegaly and hepatomegaly",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 16,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 38,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 43,
+        "end": 55,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "presenting with polyuria ascites and claudication",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 32,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 37,
+        "end": 49,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with end stage renal disease reports paroxysmal nocturnal dyspnea and diplopia",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 36,
+        "label": "INDICATION"
+      },
+      {
+        "start": 45,
+        "end": 73,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 78,
+        "end": 86,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with hepatic encephalopathy reports ascites and dyspnea",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 35,
+        "label": "INDICATION"
+      },
+      {
+        "start": 44,
+        "end": 51,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 56,
+        "end": 63,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o congestive heart failure presenting with phonophobia and malaise",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 28,
+        "label": "INDICATION"
+      },
+      {
+        "start": 45,
+        "end": 56,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 61,
+        "end": 68,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "presenting with hematemesis bradycardia and diplopia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 16,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 52,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known congestive heart failure c/o paroxysmal nocturnal dyspnea orthopnea and odynophagia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 30,
+        "label": "INDICATION"
+      },
+      {
+        "start": 35,
+        "end": 63,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 64,
+        "end": 73,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 78,
+        "end": 89,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o chronic obstructive pulmonary disease with bradycardia and lymphadenopathy",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 41,
+        "label": "INDICATION"
+      },
+      {
+        "start": 47,
+        "end": 58,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 63,
+        "end": 78,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o deep vein thrombosis presenting with odynophagia and diplopia",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 24,
+        "label": "INDICATION"
+      },
+      {
+        "start": 41,
+        "end": 52,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 57,
+        "end": 65,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known chronic kidney disease c/o malaise otalgia and odynophagia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 6,
+        "end": 28,
+        "label": "INDICATION"
+      },
+      {
+        "start": 33,
+        "end": 40,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 41,
+        "end": 48,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 53,
+        "end": 64,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with scotoma melena and hematuria",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 22,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 36,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 41,
+        "end": 50,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known deep vein thrombosis c/o arthralgia odynophagia and ascites",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 26,
+        "label": "INDICATION"
+      },
+      {
+        "start": 31,
+        "end": 41,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 42,
+        "end": 53,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 58,
+        "end": 65,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "presenting with presyncope pleural effusion and hematemesis",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 16,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 43,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 48,
+        "end": 59,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with myocardial infarction reports hematuria and malaise",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 34,
+        "label": "INDICATION"
+      },
+      {
+        "start": 43,
+        "end": 52,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 57,
+        "end": 64,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with dysphagia dysarthria and bradycardia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 22,
+        "end": 31,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 42,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 47,
+        "end": 58,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known hyperosmolar hyperglycemic state c/o aphasia myalgia and otalgia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 38,
+        "label": "INDICATION"
+      },
+      {
+        "start": 43,
+        "end": 50,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 51,
+        "end": 58,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 63,
+        "end": 70,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "presenting with pleural effusion diaphoresis and dyspnea",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 16,
+        "end": 32,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 44,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 49,
+        "end": 56,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "presenting with aphasia bradycardia and myalgia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 35,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 40,
+        "end": 47,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o acute respiratory distress syndrome with dyspnea and hepatomegaly",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 39,
+        "label": "INDICATION"
+      },
+      {
+        "start": 45,
+        "end": 52,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 57,
+        "end": 69,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known myocardial infarction c/o polydipsia hemoptysis and epistaxis",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 27,
+        "label": "INDICATION"
+      },
+      {
+        "start": 32,
+        "end": 42,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 43,
+        "end": 53,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 58,
+        "end": 67,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with hematuria pleural effusion and phonophobia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 22,
+        "end": 31,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 48,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 53,
+        "end": 64,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with end stage renal disease reports paroxysmal nocturnal dyspnea and odynophagia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 36,
+        "label": "INDICATION"
+      },
+      {
+        "start": 45,
+        "end": 73,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 78,
+        "end": 89,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with chronic obstructive pulmonary disease reports tachycardia and orthopnea",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 50,
+        "label": "INDICATION"
+      },
+      {
+        "start": 59,
+        "end": 70,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 75,
+        "end": 84,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with otalgia angina and polydipsia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 36,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 41,
+        "end": 51,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o esophageal varices with paresthesia and anuria",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 22,
+        "label": "INDICATION"
+      },
+      {
+        "start": 28,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 50,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "presenting with diplopia dyspnea and photophobia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 32,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 37,
+        "end": 48,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with myocardial infarction has myalgia otalgia and pericardial effusion",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 34,
+        "label": "INDICATION"
+      },
+      {
+        "start": 39,
+        "end": 46,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 47,
+        "end": 54,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 59,
+        "end": 79,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with chronic kidney disease has aphasia myalgia and odynophagia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 35,
+        "label": "INDICATION"
+      },
+      {
+        "start": 40,
+        "end": 47,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 48,
+        "end": 55,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 60,
+        "end": 71,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o end stage renal disease presenting with myalgia and lymphadenopathy",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 27,
+        "label": "INDICATION"
+      },
+      {
+        "start": 44,
+        "end": 51,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 56,
+        "end": 71,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with peripheral arterial disease has photophobia dysphagia and dysarthria",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 40,
+        "label": "INDICATION"
+      },
+      {
+        "start": 45,
+        "end": 56,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 57,
+        "end": 66,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 71,
+        "end": 81,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with pericardial effusion epistaxis and angina",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 42,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 43,
+        "end": 52,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 57,
+        "end": 63,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with ventricular tachycardia has angina splenomegaly and peripheral edema",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 36,
+        "label": "INDICATION"
+      },
+      {
+        "start": 41,
+        "end": 47,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 48,
+        "end": 60,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 65,
+        "end": 81,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with acute coronary syndrome reports myalgia and hemoptysis",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 36,
+        "label": "INDICATION"
+      },
+      {
+        "start": 45,
+        "end": 52,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 57,
+        "end": 67,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "presenting with odynophagia hepatomegaly and pyrexia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 16,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 40,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 45,
+        "end": 52,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with acute coronary syndrome reports hematemesis and pericardial effusion",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 36,
+        "label": "INDICATION"
+      },
+      {
+        "start": 45,
+        "end": 56,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 61,
+        "end": 81,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with pleural effusion phonophobia and splenomegaly",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 22,
+        "end": 38,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 39,
+        "end": 50,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 55,
+        "end": 67,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with acute coronary syndrome reports phonophobia and paresthesia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 36,
+        "label": "INDICATION"
+      },
+      {
+        "start": 45,
+        "end": 56,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 61,
+        "end": 72,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with arthralgia peripheral edema and pyrexia",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 22,
+        "end": 32,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 49,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 54,
+        "end": 61,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with melena myalgia and angina",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 22,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 36,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 41,
+        "end": 47,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with presyncope angina and ascites",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 22,
+        "end": 32,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 51,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o portal hypertension presenting with anuria and phonophobia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 23,
+        "label": "INDICATION"
+      },
+      {
+        "start": 40,
+        "end": 46,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 51,
+        "end": 62,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o myocardial infarction presenting with hepatomegaly and myalgia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 25,
+        "label": "INDICATION"
+      },
+      {
+        "start": 42,
+        "end": 54,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 59,
+        "end": 66,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o esophageal varices with arthralgia and ascites",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 22,
+        "label": "INDICATION"
+      },
+      {
+        "start": 28,
+        "end": 38,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 43,
+        "end": 50,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with pulmonary embolism has scotoma dyspnea and arthralgia",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 31,
+        "label": "INDICATION"
+      },
+      {
+        "start": 36,
+        "end": 43,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 51,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 56,
+        "end": 66,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "presenting with splenomegaly dyspnea and orthopnea",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 36,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 41,
+        "end": 50,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known peripheral arterial disease c/o tachycardia hematemesis and lymphadenopathy",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 33,
+        "label": "INDICATION"
+      },
+      {
+        "start": 38,
+        "end": 49,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 50,
+        "end": 61,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 66,
+        "end": 81,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with acute respiratory distress syndrome has claudication tachycardia and hematemesis",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 48,
+        "label": "INDICATION"
+      },
+      {
+        "start": 53,
+        "end": 65,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 66,
+        "end": 77,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 82,
+        "end": 93,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with ventricular tachycardia reports bradycardia and aphasia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 36,
+        "label": "INDICATION"
+      },
+      {
+        "start": 45,
+        "end": 56,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 61,
+        "end": 68,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with arthralgia peripheral edema and pericardial effusion",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 22,
+        "end": 32,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 49,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 54,
+        "end": 74,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known portal hypertension c/o malaise lymphadenopathy and hepatomegaly",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 25,
+        "label": "INDICATION"
+      },
+      {
+        "start": 30,
+        "end": 37,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 38,
+        "end": 53,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 58,
+        "end": 70,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known pulmonary embolism c/o angina scotoma and ascites",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 6,
+        "end": 24,
+        "label": "INDICATION"
+      },
+      {
+        "start": 29,
+        "end": 35,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 43,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 48,
+        "end": 55,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with malaise syncope and phonophobia",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 22,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 37,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 42,
+        "end": 53,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o pulmonary embolism with peripheral edema and tachycardia",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 22,
+        "label": "INDICATION"
+      },
+      {
+        "start": 28,
+        "end": 44,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 49,
+        "end": 60,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with portal hypertension has pericardial effusion pyrexia and photophobia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 32,
+        "label": "INDICATION"
+      },
+      {
+        "start": 37,
+        "end": 57,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 58,
+        "end": 65,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 70,
+        "end": 81,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "presenting with dysarthria diplopia and polydipsia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 16,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 35,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 40,
+        "end": 50,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o hepatic encephalopathy presenting with syncope and odynophagia",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 26,
+        "label": "INDICATION"
+      },
+      {
+        "start": 43,
+        "end": 50,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 55,
+        "end": 66,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with myocardial infarction reports presyncope and hepatomegaly",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 34,
+        "label": "INDICATION"
+      },
+      {
+        "start": 43,
+        "end": 53,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 58,
+        "end": 70,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known myocardial infarction c/o polyuria angina and hepatomegaly",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 6,
+        "end": 27,
+        "label": "INDICATION"
+      },
+      {
+        "start": 32,
+        "end": 40,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 41,
+        "end": 47,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 52,
+        "end": 64,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with atrial fibrillation reports cephalgia and pericardial effusion",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 32,
+        "label": "INDICATION"
+      },
+      {
+        "start": 41,
+        "end": 50,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 55,
+        "end": 75,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o portal hypertension with diplopia and dysarthria",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 23,
+        "label": "INDICATION"
+      },
+      {
+        "start": 29,
+        "end": 37,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 42,
+        "end": 52,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with esophageal varices reports scotoma and pleural effusion",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 31,
+        "label": "INDICATION"
+      },
+      {
+        "start": 40,
+        "end": 47,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 52,
+        "end": 68,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with acute respiratory distress syndrome reports malaise and otalgia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 48,
+        "label": "INDICATION"
+      },
+      {
+        "start": 57,
+        "end": 64,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 69,
+        "end": 76,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with lymphadenopathy myalgia and claudication",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 37,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 38,
+        "end": 45,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 50,
+        "end": 62,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "presenting with photophobia lymphadenopathy and ascites",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 43,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 48,
+        "end": 55,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o atrial fibrillation with hematuria and myalgia",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 23,
+        "label": "INDICATION"
+      },
+      {
+        "start": 29,
+        "end": 38,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 43,
+        "end": 50,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known deep vein thrombosis c/o claudication oliguria and dysarthria",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 6,
+        "end": 26,
+        "label": "INDICATION"
+      },
+      {
+        "start": 31,
+        "end": 43,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 52,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 57,
+        "end": 67,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with esophageal varices reports hematemesis and diaphoresis",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 31,
+        "label": "INDICATION"
+      },
+      {
+        "start": 40,
+        "end": 51,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 56,
+        "end": 67,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known end stage renal disease c/o scotoma dysarthria and anuria",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 6,
+        "end": 29,
+        "label": "INDICATION"
+      },
+      {
+        "start": 34,
+        "end": 41,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 42,
+        "end": 52,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 57,
+        "end": 63,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with acute coronary syndrome has peripheral edema polyuria and arthralgia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 36,
+        "label": "INDICATION"
+      },
+      {
+        "start": 41,
+        "end": 57,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 58,
+        "end": 66,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 71,
+        "end": 81,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with dysphagia melena and paresthesia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 22,
+        "end": 31,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 38,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 43,
+        "end": 54,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with diabetic ketoacidosis reports diplopia and syncope",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 34,
+        "label": "INDICATION"
+      },
+      {
+        "start": 43,
+        "end": 51,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 56,
+        "end": 63,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o esophageal varices with peripheral edema and orthopnea",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 22,
+        "label": "INDICATION"
+      },
+      {
+        "start": 28,
+        "end": 44,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 49,
+        "end": 58,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with acute respiratory distress syndrome has hemoptysis anuria and myalgia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 48,
+        "label": "INDICATION"
+      },
+      {
+        "start": 53,
+        "end": 63,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 64,
+        "end": 70,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 75,
+        "end": 82,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with diabetic ketoacidosis has hematuria dysarthria and hepatomegaly",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 34,
+        "label": "INDICATION"
+      },
+      {
+        "start": 39,
+        "end": 48,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 49,
+        "end": 59,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 64,
+        "end": 76,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o peripheral arterial disease with tachycardia and bradycardia",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 31,
+        "label": "INDICATION"
+      },
+      {
+        "start": 37,
+        "end": 48,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 53,
+        "end": 64,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with congestive heart failure has scotoma otalgia and syncope",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 37,
+        "label": "INDICATION"
+      },
+      {
+        "start": 42,
+        "end": 49,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 50,
+        "end": 57,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 62,
+        "end": 69,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with esophageal varices reports phonophobia and epistaxis",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 31,
+        "label": "INDICATION"
+      },
+      {
+        "start": 40,
+        "end": 51,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 56,
+        "end": 65,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with paresthesia syncope and cephalgia",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 22,
+        "end": 33,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 41,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 46,
+        "end": 55,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o cerebrovascular accident with hemoptysis and paresthesia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 28,
+        "label": "INDICATION"
+      },
+      {
+        "start": 34,
+        "end": 44,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 49,
+        "end": 60,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with ventricular tachycardia has hematemesis pericardial effusion and diplopia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 36,
+        "label": "INDICATION"
+      },
+      {
+        "start": 41,
+        "end": 52,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 53,
+        "end": 73,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 78,
+        "end": 86,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with hepatic encephalopathy has cephalgia aphasia and splenomegaly",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 35,
+        "label": "INDICATION"
+      },
+      {
+        "start": 40,
+        "end": 49,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 50,
+        "end": 57,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 62,
+        "end": 74,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o myocardial infarction presenting with hematemesis and tachycardia",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 25,
+        "label": "INDICATION"
+      },
+      {
+        "start": 42,
+        "end": 53,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 58,
+        "end": 69,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with myocardial infarction reports otalgia and aphasia",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 34,
+        "label": "INDICATION"
+      },
+      {
+        "start": 43,
+        "end": 50,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 55,
+        "end": 62,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o portal hypertension presenting with epistaxis and scotoma",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 23,
+        "label": "INDICATION"
+      },
+      {
+        "start": 40,
+        "end": 49,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 54,
+        "end": 61,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o diabetic ketoacidosis with photophobia and peripheral edema",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 25,
+        "label": "INDICATION"
+      },
+      {
+        "start": 31,
+        "end": 42,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 47,
+        "end": 63,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "presenting with hepatomegaly presyncope and odynophagia",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 16,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 55,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with claudication diplopia and paresthesia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 34,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 35,
+        "end": 43,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 48,
+        "end": 59,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "presenting with orthopnea odynophagia and bradycardia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 16,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 37,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 42,
+        "end": 53,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o portal hypertension presenting with angina and dysphagia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 23,
+        "label": "INDICATION"
+      },
+      {
+        "start": 40,
+        "end": 46,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 51,
+        "end": 60,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with polyuria syncope and dyspnea",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 22,
+        "end": 30,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 38,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 43,
+        "end": 50,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with peripheral arterial disease has photophobia anuria and diplopia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 40,
+        "label": "INDICATION"
+      },
+      {
+        "start": 45,
+        "end": 56,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 57,
+        "end": 63,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 68,
+        "end": 76,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o chronic obstructive pulmonary disease presenting with lymphadenopathy and claudication",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 41,
+        "label": "INDICATION"
+      },
+      {
+        "start": 58,
+        "end": 73,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 78,
+        "end": 90,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with chronic kidney disease reports orthopnea and arthralgia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 35,
+        "label": "INDICATION"
+      },
+      {
+        "start": 44,
+        "end": 53,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 58,
+        "end": 68,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with chronic obstructive pulmonary disease reports pericardial effusion and peripheral edema",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 50,
+        "label": "INDICATION"
+      },
+      {
+        "start": 59,
+        "end": 79,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 84,
+        "end": 100,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with ventricular tachycardia reports angina and pericardial effusion",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 36,
+        "label": "INDICATION"
+      },
+      {
+        "start": 45,
+        "end": 51,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 56,
+        "end": 76,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o diabetic ketoacidosis with dysarthria and polyuria",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 25,
+        "label": "INDICATION"
+      },
+      {
+        "start": 31,
+        "end": 41,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 46,
+        "end": 54,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o cerebrovascular accident presenting with melena and ascites",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 28,
+        "label": "INDICATION"
+      },
+      {
+        "start": 45,
+        "end": 51,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 56,
+        "end": 63,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with hemoptysis hepatomegaly and hematuria",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 22,
+        "end": 32,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 45,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 50,
+        "end": 59,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "presenting with pleural effusion malaise and lymphadenopathy",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 32,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 40,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 45,
+        "end": 60,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with odynophagia oliguria and polyuria",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 22,
+        "end": 33,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 42,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 47,
+        "end": 55,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o myocardial infarction presenting with polydipsia and orthopnea",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 25,
+        "label": "INDICATION"
+      },
+      {
+        "start": 42,
+        "end": 52,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 57,
+        "end": 66,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with dysarthria anuria and phonophobia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 22,
+        "end": 32,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 55,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with polydipsia paresthesia and claudication",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 22,
+        "end": 32,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 44,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 49,
+        "end": 61,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "presenting with cephalgia syncope and anuria",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 16,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 33,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 38,
+        "end": 44,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o chronic obstructive pulmonary disease with diaphoresis and hemoptysis",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 41,
+        "label": "INDICATION"
+      },
+      {
+        "start": 47,
+        "end": 58,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 63,
+        "end": 73,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known acute respiratory distress syndrome c/o aphasia photophobia and dysarthria",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 6,
+        "end": 41,
+        "label": "INDICATION"
+      },
+      {
+        "start": 46,
+        "end": 53,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 54,
+        "end": 65,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 70,
+        "end": 80,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o ventricular tachycardia with melena and hematemesis",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 27,
+        "label": "INDICATION"
+      },
+      {
+        "start": 33,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 55,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o diabetic ketoacidosis presenting with tachycardia and splenomegaly",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 25,
+        "label": "INDICATION"
+      },
+      {
+        "start": 42,
+        "end": 53,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 58,
+        "end": 70,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "presenting with odynophagia diaphoresis and dyspnea",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 16,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 51,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with chronic obstructive pulmonary disease reports peripheral edema and splenomegaly",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 50,
+        "label": "INDICATION"
+      },
+      {
+        "start": 59,
+        "end": 75,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 80,
+        "end": 92,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with lymphadenopathy odynophagia and hepatomegaly",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 22,
+        "end": 37,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 38,
+        "end": 49,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 54,
+        "end": 66,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o esophageal varices with presyncope and diplopia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 22,
+        "label": "INDICATION"
+      },
+      {
+        "start": 28,
+        "end": 38,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 43,
+        "end": 51,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o congestive heart failure presenting with syncope and claudication",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 28,
+        "label": "INDICATION"
+      },
+      {
+        "start": 45,
+        "end": 52,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 57,
+        "end": 69,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o chronic kidney disease presenting with lymphadenopathy and pyrexia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 26,
+        "label": "INDICATION"
+      },
+      {
+        "start": 43,
+        "end": 58,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 63,
+        "end": 70,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known ventricular tachycardia c/o hematuria lymphadenopathy and scotoma",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 29,
+        "label": "INDICATION"
+      },
+      {
+        "start": 34,
+        "end": 43,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 59,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 64,
+        "end": 71,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with atrial fibrillation reports melena and hematuria",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 32,
+        "label": "INDICATION"
+      },
+      {
+        "start": 41,
+        "end": 47,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 52,
+        "end": 61,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with lymphadenopathy anuria and presyncope",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 22,
+        "end": 37,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 38,
+        "end": 44,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 49,
+        "end": 59,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with congestive heart failure has pericardial effusion dysarthria and lymphadenopathy",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 37,
+        "label": "INDICATION"
+      },
+      {
+        "start": 42,
+        "end": 62,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 63,
+        "end": 73,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 78,
+        "end": 93,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with chronic obstructive pulmonary disease reports diplopia and paresthesia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 50,
+        "label": "INDICATION"
+      },
+      {
+        "start": 59,
+        "end": 67,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 72,
+        "end": 83,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o atrial fibrillation presenting with diaphoresis and splenomegaly",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 23,
+        "label": "INDICATION"
+      },
+      {
+        "start": 40,
+        "end": 51,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 56,
+        "end": 68,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o pulmonary embolism with orthopnea and tachycardia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 22,
+        "label": "INDICATION"
+      },
+      {
+        "start": 28,
+        "end": 37,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 42,
+        "end": 53,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known peripheral arterial disease c/o presyncope anuria and dyspnea",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 33,
+        "label": "INDICATION"
+      },
+      {
+        "start": 38,
+        "end": 48,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 49,
+        "end": 55,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 60,
+        "end": 67,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known ventricular tachycardia c/o otalgia hepatomegaly and angina",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 6,
+        "end": 29,
+        "label": "INDICATION"
+      },
+      {
+        "start": 34,
+        "end": 41,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 42,
+        "end": 54,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 59,
+        "end": 65,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with end stage renal disease has bradycardia claudication and malaise",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 36,
+        "label": "INDICATION"
+      },
+      {
+        "start": 41,
+        "end": 52,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 53,
+        "end": 65,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 70,
+        "end": 77,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o hepatic encephalopathy with syncope and arthralgia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 26,
+        "label": "INDICATION"
+      },
+      {
+        "start": 32,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 54,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o congestive heart failure presenting with diplopia and bradycardia",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 28,
+        "label": "INDICATION"
+      },
+      {
+        "start": 45,
+        "end": 53,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 58,
+        "end": 69,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o esophageal varices presenting with pericardial effusion and dysarthria",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 22,
+        "label": "INDICATION"
+      },
+      {
+        "start": 39,
+        "end": 59,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 64,
+        "end": 74,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o peripheral arterial disease with photophobia and scotoma",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 31,
+        "label": "INDICATION"
+      },
+      {
+        "start": 37,
+        "end": 48,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 53,
+        "end": 60,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with cerebrovascular accident has anuria pericardial effusion and dyspnea",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 37,
+        "label": "INDICATION"
+      },
+      {
+        "start": 42,
+        "end": 48,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 49,
+        "end": 69,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 74,
+        "end": 81,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known portal hypertension c/o cephalgia syncope and bradycardia",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 6,
+        "end": 25,
+        "label": "INDICATION"
+      },
+      {
+        "start": 30,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 40,
+        "end": 47,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 52,
+        "end": 63,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known chronic kidney disease c/o claudication paresthesia and polydipsia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 6,
+        "end": 28,
+        "label": "INDICATION"
+      },
+      {
+        "start": 33,
+        "end": 45,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 46,
+        "end": 57,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 62,
+        "end": 72,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with oliguria diplopia and dyspnea",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 22,
+        "end": 30,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 51,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o portal hypertension with polydipsia and pleural effusion",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 23,
+        "label": "INDICATION"
+      },
+      {
+        "start": 29,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 60,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with pulmonary embolism has malaise dyspnea and epistaxis",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 31,
+        "label": "INDICATION"
+      },
+      {
+        "start": 36,
+        "end": 43,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 51,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 56,
+        "end": 65,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known pulmonary embolism c/o pleural effusion diplopia and polyuria",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 24,
+        "label": "INDICATION"
+      },
+      {
+        "start": 29,
+        "end": 45,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 46,
+        "end": 54,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 59,
+        "end": 67,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known atrial fibrillation c/o orthopnea hemoptysis and bradycardia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 25,
+        "label": "INDICATION"
+      },
+      {
+        "start": 30,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 40,
+        "end": 50,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 55,
+        "end": 66,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with myocardial infarction reports oliguria and claudication",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 34,
+        "label": "INDICATION"
+      },
+      {
+        "start": 43,
+        "end": 51,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 56,
+        "end": 68,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o peripheral arterial disease presenting with phonophobia and polyuria",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 31,
+        "label": "INDICATION"
+      },
+      {
+        "start": 48,
+        "end": 59,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 64,
+        "end": 72,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with chronic kidney disease has syncope oliguria and ascites",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 35,
+        "label": "INDICATION"
+      },
+      {
+        "start": 40,
+        "end": 47,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 48,
+        "end": 56,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 61,
+        "end": 68,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o esophageal varices presenting with odynophagia and orthopnea",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 22,
+        "label": "INDICATION"
+      },
+      {
+        "start": 39,
+        "end": 50,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 55,
+        "end": 64,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient presents with dysphagia diplopia and scotoma",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 22,
+        "end": 31,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 40,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 45,
+        "end": 52,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o hyperosmolar hyperglycemic state presenting with arthralgia and syncope",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 36,
+        "label": "INDICATION"
+      },
+      {
+        "start": 53,
+        "end": 63,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 68,
+        "end": 75,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o diabetic ketoacidosis presenting with hepatomegaly and diaphoresis",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 25,
+        "label": "INDICATION"
+      },
+      {
+        "start": 42,
+        "end": 54,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 59,
+        "end": 70,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o hepatic encephalopathy presenting with epistaxis and pyrexia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 26,
+        "label": "INDICATION"
+      },
+      {
+        "start": 43,
+        "end": 52,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 57,
+        "end": 64,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o hyperosmolar hyperglycemic state with dyspnea and oliguria",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 36,
+        "label": "INDICATION"
+      },
+      {
+        "start": 42,
+        "end": 49,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 54,
+        "end": 62,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "presenting with splenomegaly cephalgia and melena",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 16,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 38,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 43,
+        "end": 49,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with chronic obstructive pulmonary disease reports pyrexia and arthralgia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 50,
+        "label": "INDICATION"
+      },
+      {
+        "start": 59,
+        "end": 66,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 71,
+        "end": 81,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "presenting with oliguria hepatomegaly and melena",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 37,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 42,
+        "end": 48,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with end stage renal disease reports hemoptysis and polydipsia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 36,
+        "label": "INDICATION"
+      },
+      {
+        "start": 45,
+        "end": 55,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 60,
+        "end": 70,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o peripheral arterial disease with otalgia and pyrexia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 31,
+        "label": "INDICATION"
+      },
+      {
+        "start": 37,
+        "end": 44,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 49,
+        "end": 56,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with acute coronary syndrome has lymphadenopathy claudication and hepatomegaly",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 36,
+        "label": "INDICATION"
+      },
+      {
+        "start": 41,
+        "end": 56,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 57,
+        "end": 69,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 74,
+        "end": 86,
+        "label": "SYMPTOM"
+      }
+    ]
+  }
+]

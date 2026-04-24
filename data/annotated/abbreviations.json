@@ -1,0 +1,10114 @@
+[
+  {
+    "text": "patient c/o severe sob for 2 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 18,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 19,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 33,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o dm and htn with chest pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "label": "INDICATION"
+      },
+      {
+        "start": 11,
+        "end": 14,
+        "label": "INDICATION"
+      },
+      {
+        "start": 20,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o copd presenting with sob",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 10,
+        "label": "INDICATION"
+      },
+      {
+        "start": 27,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o ha and n/v since yesterday",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 38,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o cad with cp and diaphoresis",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with ckd c/o abd pain for 1 week",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 16,
+        "label": "INDICATION"
+      },
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 40,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o htn on meds c/o ha",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o bilat leg pain and swelling",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 17,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 18,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o mi presenting with severe cp",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "label": "INDICATION"
+      },
+      {
+        "start": 23,
+        "end": 29,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 30,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with ra c/o bilat joint pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 20,
+        "end": 25,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 26,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o dm type 2 with polyuria and polydipsia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 44,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o n/v and abd cramps for 3 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 30,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 35,
+        "end": 41,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o cvd with sob on exertion",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with tb c/o ha and fever",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o uti with dysuria and frequency",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 15,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o severe ha and n/v since morning",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 18,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 19,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 43,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o ihd presenting with cp and sob",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 24,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with chf c/o bilat pedal edema",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 16,
+        "label": "INDICATION"
+      },
+      {
+        "start": 21,
+        "end": 26,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 33,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o asthma with sob and wheezing",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 12,
+        "label": "INDICATION"
+      },
+      {
+        "start": 18,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o abd pain and n/v for 2 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 39,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o cva with ha and blurred vision",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with pvd c/o bilat leg pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 16,
+        "label": "INDICATION"
+      },
+      {
+        "start": 21,
+        "end": 26,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 27,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o gerd with severe ha and n/v",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 10,
+        "label": "INDICATION"
+      },
+      {
+        "start": 16,
+        "end": 22,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 23,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o cp and sob for 1 hour",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 33,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o af with palpitations and dizziness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "label": "INDICATION"
+      },
+      {
+        "start": 12,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with pe c/o severe sob and cp",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 20,
+        "end": 26,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 27,
+        "end": 30,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 35,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o ibs with abd pain and bloating",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o ha n/v and photophobia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 15,
+        "end": 18,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o ckd stage 3 with fatigue and weakness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 21,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 41,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with ms c/o bilat leg weakness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 20,
+        "end": 25,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 26,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o htn dm with ha and blurred vision",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "label": "INDICATION"
+      },
+      {
+        "start": 18,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o severe cp sob and diaphoresis",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 18,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 19,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 22,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 41,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o cad mi with recurrent cp",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 8,
+        "end": 10,
+        "label": "INDICATION"
+      },
+      {
+        "start": 26,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with copd c/o sob and cough",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 17,
+        "label": "INDICATION"
+      },
+      {
+        "start": 22,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o ra on dmards c/o bilat joint pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "label": "INDICATION"
+      },
+      {
+        "start": 12,
+        "end": 18,
+        "label": "INDICATION"
+      },
+      {
+        "start": 23,
+        "end": 28,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 29,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o abd pain n/v and diarrhea",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o pvd with bilat leg pain on walking",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 19,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with af c/o palpitations and sob",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 20,
+        "end": 32,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 37,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o gerd on ppi c/o ha and n/v",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 10,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "label": "INDICATION"
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o severe sob cp and diaphoresis",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 18,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 19,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 41,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o mi cad with cp on exertion",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "label": "INDICATION"
+      },
+      {
+        "start": 7,
+        "end": 10,
+        "label": "INDICATION"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with chf c/o sob and pedal edema",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 16,
+        "label": "INDICATION"
+      },
+      {
+        "start": 21,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 35,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o dm htn with ha and blurred vision",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "label": "INDICATION"
+      },
+      {
+        "start": 9,
+        "end": 12,
+        "label": "INDICATION"
+      },
+      {
+        "start": 18,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o bilat leg pain and swelling for 1 week",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 17,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 18,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 50,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o cva with ha dizziness and weakness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 16,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with pe c/o sob and cp for 2 hours",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 20,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 30,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 35,
+        "end": 42,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o ibs with abd cramps and bloating",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 15,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o ha n/v and neck stiffness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 15,
+        "end": 18,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o ckd with fatigue weakness and anorexia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 42,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with ms c/o bilat weakness and numbness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 20,
+        "end": 25,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 26,
+        "end": 34,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 39,
+        "end": 47,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o htn on acei c/o ha and dizziness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "label": "INDICATION"
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o severe cp and sob since 1 hour",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 18,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 19,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 42,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o cad with cp and n/v",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with copd c/o sob wheezing and cough",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 17,
+        "label": "INDICATION"
+      },
+      {
+        "start": 22,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 34,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 39,
+        "end": 44,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o ra with bilat joint pain and stiffness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 20,
+        "end": 30,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 35,
+        "end": 44,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o abd pain and n/v for 3 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 39,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o pvd with cp on walking",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with af c/o palpitations sob and dizziness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 20,
+        "end": 32,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 36,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 41,
+        "end": 50,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o gerd on ppi with ha and n/v",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 10,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "label": "INDICATION"
+      },
+      {
+        "start": 23,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o severe sob and cp for 2 hours",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 18,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 19,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 41,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o mi with recurrent cp and diaphoresis",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "label": "INDICATION"
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with chf c/o bilat pedal edema and sob",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 16,
+        "label": "INDICATION"
+      },
+      {
+        "start": 21,
+        "end": 26,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 33,
+        "end": 38,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 43,
+        "end": 46,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o dm type 2 htn with ha",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 16,
+        "end": 19,
+        "label": "INDICATION"
+      },
+      {
+        "start": 25,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o bilat leg pain swelling for 1 week",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 17,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 18,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 35,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 40,
+        "end": 46,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o cva with ha weakness and blurred vision",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 43,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with pe c/o sob cp and diaphoresis",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 20,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 42,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o ibs with abd cramps bloating and diarrhea",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 15,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 34,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 39,
+        "end": 47,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o ha n/v photophobia for 2 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 15,
+        "end": 18,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 30,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 35,
+        "end": 41,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o ckd stage 4 with fatigue and anorexia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 21,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 41,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with ms c/o bilat leg weakness numbness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 20,
+        "end": 25,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 26,
+        "end": 38,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 39,
+        "end": 47,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o htn dm on meds c/o ha",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "label": "INDICATION"
+      },
+      {
+        "start": 25,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o severe cp sob diaphoresis for 1 hour",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 18,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 19,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 22,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 37,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 42,
+        "end": 48,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o cad mi with cp and sob",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 8,
+        "end": 10,
+        "label": "INDICATION"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with copd c/o sob cough and wheezing",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 17,
+        "label": "INDICATION"
+      },
+      {
+        "start": 22,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 31,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 44,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o ra on dmards with bilat joint pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "label": "INDICATION"
+      },
+      {
+        "start": 12,
+        "end": 18,
+        "label": "INDICATION"
+      },
+      {
+        "start": 24,
+        "end": 29,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 30,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o abd pain n/v diarrhea for 2 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 33,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 38,
+        "end": 44,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o pvd with bilat leg pain on exertion",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 19,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with af c/o palpitations and sob",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 20,
+        "end": 32,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 37,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o gerd on ppi c/o ha n/v",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 10,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "label": "INDICATION"
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o severe sob and cp",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 18,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 19,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o mi cad with recurrent cp",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "label": "INDICATION"
+      },
+      {
+        "start": 7,
+        "end": 10,
+        "label": "INDICATION"
+      },
+      {
+        "start": 26,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with chf c/o sob pedal edema",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 16,
+        "label": "INDICATION"
+      },
+      {
+        "start": 21,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o dm htn with ha blurred vision",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "label": "INDICATION"
+      },
+      {
+        "start": 9,
+        "end": 12,
+        "label": "INDICATION"
+      },
+      {
+        "start": 18,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o bilat leg pain and swelling",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 17,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 18,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o cva with ha dizziness weakness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 16,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with pe c/o sob and cp",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 20,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o ibs with abd cramps and bloating",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 15,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o ha n/v and neck stiffness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 15,
+        "end": 18,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o ckd with fatigue weakness anorexia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with ms c/o bilat weakness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 20,
+        "end": 25,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 26,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o htn on acei with ha",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "label": "INDICATION"
+      },
+      {
+        "start": 23,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o severe cp sob",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 18,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 19,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 22,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o cad with cp n/v",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 16,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with copd c/o sob and wheezing",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 17,
+        "label": "INDICATION"
+      },
+      {
+        "start": 22,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o ra with bilat joint pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "SEVERITY"
+      },
+      {
+        "start": 20,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o abd pain and n/v",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o pvd with cp",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with af c/o palpitations",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 20,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o gerd on ppi with ha",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 10,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "label": "INDICATION"
+      },
+      {
+        "start": 23,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o mi with sob and ha",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "label": "INDICATION"
+      },
+      {
+        "start": 12,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o ha and bilat leg pain for for 12 hours",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 33,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 38,
+        "end": 50,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o htn c/o abd pain for for 12 hours",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 39,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with chf reports abd pain and n/v",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 16,
+        "label": "INDICATION"
+      },
+      {
+        "start": 25,
+        "end": 33,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 38,
+        "end": 41,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o dm with cp and bilat leg pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "label": "INDICATION"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with mi reports abd pain and n/v",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 24,
+        "end": 32,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 37,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o dm c/o cp for for 10 days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 31,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o n/v and cp for for 1 month",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 38,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o ha and abd pain for since yesterday",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 47,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o cad with sob and bilat leg pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o ha and sob for for few days",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 39,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o copd c/o bilat leg pain for since this morning",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 6,
+        "end": 10,
+        "label": "INDICATION"
+      },
+      {
+        "start": 15,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 52,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with cad reports n/v and ha",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 16,
+        "label": "INDICATION"
+      },
+      {
+        "start": 25,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o dm with bilat leg pain and n/v",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "label": "INDICATION"
+      },
+      {
+        "start": 12,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o dm c/o abd pain for for 1 week",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 36,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o copd with sob and n/v",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 8,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 22,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with cad reports abd pain and ha",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 16,
+        "label": "INDICATION"
+      },
+      {
+        "start": 25,
+        "end": 33,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 38,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o ha and n/v for since this morning",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 45,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o abd pain and sob for for 6 hours",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 44,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o ckd with sob and ha",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o af with cp and abd pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "label": "INDICATION"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o af with sob and n/v",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "label": "INDICATION"
+      },
+      {
+        "start": 12,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with ckd reports ha and sob",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 16,
+        "label": "INDICATION"
+      },
+      {
+        "start": 25,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with copd reports cp and bilat leg pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 17,
+        "label": "INDICATION"
+      },
+      {
+        "start": 26,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 47,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o sob and ha for for 6 hours",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 38,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o bilat leg pain and ha for since 3 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 33,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 38,
+        "end": 50,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o bilat leg pain and sob for for 1 month",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 34,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 39,
+        "end": 50,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o bilat leg pain and n/v for for 4 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 34,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 39,
+        "end": 49,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o htn with bilat leg pain and abd pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with htn reports sob and bilat leg pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 16,
+        "label": "INDICATION"
+      },
+      {
+        "start": 25,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 47,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with af reports abd pain and sob",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 24,
+        "end": 32,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 37,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o abd pain and cp for for 2 days",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 42,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with dm reports ha and sob",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 24,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o dm c/o cp for for 1 year",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 30,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o htn with abd pain and cp",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o cad with bilat leg pain and abd pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o htn c/o ha for since this morning",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 39,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o chf with cp and bilat leg pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o ckd with abd pain and n/v",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o cad c/o bilat leg pain for since last week",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 48,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o copd c/o cp for for 1 week",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 6,
+        "end": 10,
+        "label": "INDICATION"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 22,
+        "end": 32,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o n/v and bilat leg pain for for 1 week",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 34,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 39,
+        "end": 49,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o n/v and abd pain for for 4 days",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 43,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o ckd with cp and abd pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with copd reports n/v and cp",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 17,
+        "label": "INDICATION"
+      },
+      {
+        "start": 26,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o cad with sob and n/v",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o htn with sob and n/v",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o cad c/o n/v for for 3 hours",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 22,
+        "end": 33,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o copd with bilat leg pain and cp",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 8,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with chf reports ha and abd pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 16,
+        "label": "INDICATION"
+      },
+      {
+        "start": 25,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with cad reports abd pain and cp",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 16,
+        "label": "INDICATION"
+      },
+      {
+        "start": 25,
+        "end": 33,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 38,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o af with abd pain and cp",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "label": "INDICATION"
+      },
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o ha and abd pain for for 1 week",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 42,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o htn c/o sob for since this morning",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 22,
+        "end": 40,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o chf with bilat leg pain and cp",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o ckd with abd pain and ha",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with ckd reports abd pain and sob",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 16,
+        "label": "INDICATION"
+      },
+      {
+        "start": 25,
+        "end": 33,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 38,
+        "end": 41,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o ckd with ha and n/v",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o abd pain and bilat leg pain for since yesterday",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 59,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with chf reports ha and sob",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 16,
+        "label": "INDICATION"
+      },
+      {
+        "start": 25,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o mi with sob and bilat leg pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "label": "INDICATION"
+      },
+      {
+        "start": 12,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o af with n/v and abd pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "label": "INDICATION"
+      },
+      {
+        "start": 12,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o cp and bilat leg pain for for 1 month",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 33,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 38,
+        "end": 49,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o abd pain and ha for since morning",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 45,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with copd reports cp and sob",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 17,
+        "label": "INDICATION"
+      },
+      {
+        "start": 26,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o chf with cp and ha",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o copd c/o n/v for for 3 weeks",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 6,
+        "end": 10,
+        "label": "INDICATION"
+      },
+      {
+        "start": 15,
+        "end": 18,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 34,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with af reports ha and bilat leg pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 24,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 45,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o chf c/o bilat leg pain for for 10 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 44,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o htn with n/v and cp",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o chf c/o n/v for since yesterday",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 22,
+        "end": 37,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o cp and sob for since this morning",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 45,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with chf reports abd pain and bilat leg pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 16,
+        "label": "INDICATION"
+      },
+      {
+        "start": 25,
+        "end": 33,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 38,
+        "end": 52,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o chf c/o ha for for 5 days",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 31,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o af with cp and bilat leg pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "label": "INDICATION"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with cad reports abd pain and sob",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 16,
+        "label": "INDICATION"
+      },
+      {
+        "start": 25,
+        "end": 33,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 38,
+        "end": 41,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o ha and bilat leg pain for since 3 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 33,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 38,
+        "end": 50,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o cad with ha and cp",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o mi c/o sob for for 10 days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 32,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with af reports bilat leg pain and n/v",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 24,
+        "end": 38,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 43,
+        "end": 46,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o mi with n/v and sob",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "label": "INDICATION"
+      },
+      {
+        "start": 12,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o ha and bilat leg pain for since 2 days",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 33,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 38,
+        "end": 50,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with af reports n/v and abd pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 24,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o copd c/o n/v for for 6 hours",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 10,
+        "label": "INDICATION"
+      },
+      {
+        "start": 15,
+        "end": 18,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 34,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o htn with sob and cp",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o bilat leg pain and abd pain for for 12 hours",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 56,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o mi with bilat leg pain and n/v",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "label": "INDICATION"
+      },
+      {
+        "start": 12,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with copd reports bilat leg pain and sob",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 17,
+        "label": "INDICATION"
+      },
+      {
+        "start": 26,
+        "end": 40,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 45,
+        "end": 48,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o htn with cp and n/v",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o htn c/o ha for since 2 days",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 33,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o dm with abd pain and sob",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "label": "INDICATION"
+      },
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o n/v and cp for since 2 days",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 39,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o mi with ha and bilat leg pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "label": "INDICATION"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with chf reports abd pain and n/v",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 16,
+        "label": "INDICATION"
+      },
+      {
+        "start": 25,
+        "end": 33,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 38,
+        "end": 41,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o cad with bilat leg pain and cp",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o ckd with ha and n/v",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with chf reports n/v and sob",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 16,
+        "label": "INDICATION"
+      },
+      {
+        "start": 25,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o mi c/o ha for for 10 days",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 31,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o chf with cp and bilat leg pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o bilat leg pain and sob for for 2 weeks",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 34,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 39,
+        "end": 50,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o ckd with abd pain and ha",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o htn c/o ha for since 2 days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 33,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o ha and cp for for 3 weeks",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 37,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o copd c/o n/v for for 1 year",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 6,
+        "end": 10,
+        "label": "INDICATION"
+      },
+      {
+        "start": 15,
+        "end": 18,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 33,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o chf with bilat leg pain and ha",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o cad c/o ha for for 2 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 31,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o htn c/o ha for for 4 days",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 31,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o bilat leg pain and abd pain for for 2 weeks",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 55,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o abd pain and n/v for for 10 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 44,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o ha and abd pain for for 5 days",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 42,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o copd c/o sob for for 10 days",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 6,
+        "end": 10,
+        "label": "INDICATION"
+      },
+      {
+        "start": 15,
+        "end": 18,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 34,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o copd c/o abd pain for since last week",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 10,
+        "label": "INDICATION"
+      },
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 43,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with cad reports sob and abd pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 16,
+        "label": "INDICATION"
+      },
+      {
+        "start": 25,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 41,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o abd pain and n/v for for 2 weeks",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 44,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with copd reports bilat leg pain and sob",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 17,
+        "label": "INDICATION"
+      },
+      {
+        "start": 26,
+        "end": 40,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 45,
+        "end": 48,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o n/v and ha for since 2 days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 39,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o bilat leg pain and abd pain for for 1 month",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 55,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o copd c/o sob for since morning",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 6,
+        "end": 10,
+        "label": "INDICATION"
+      },
+      {
+        "start": 15,
+        "end": 18,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 36,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o chf c/o bilat leg pain for since last night",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 49,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o n/v and abd pain for since 3 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 45,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o htn with ha and cp",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with cad reports sob and abd pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 16,
+        "label": "INDICATION"
+      },
+      {
+        "start": 25,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 41,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o cp and bilat leg pain for for 3 weeks",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 33,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 38,
+        "end": 49,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with cad reports n/v and sob",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 16,
+        "label": "INDICATION"
+      },
+      {
+        "start": 25,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o cad c/o ha for since 3 days",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 33,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o ra presenting with lt arm pain ha for since last month",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "label": "INDICATION"
+      },
+      {
+        "start": 23,
+        "end": 34,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 35,
+        "end": 37,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 42,
+        "end": 58,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o copd c/o bilat leg pain for since morning",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 6,
+        "end": 10,
+        "label": "INDICATION"
+      },
+      {
+        "start": 15,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 47,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o ra c/o abd pain for since this morning",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 44,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "known ckd c/o sob and bilat leg pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 22,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o oa c/o ha for for 6 hours",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 31,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o n/v and abd pain for for 12 hours",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 45,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with dm reports rt sided weakness and abd pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 24,
+        "end": 41,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 46,
+        "end": 54,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o sob and rt sided weakness for since 2 days",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 37,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 42,
+        "end": 54,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o ra with cp and n/v",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "label": "INDICATION"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with chf reports ha and cp",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 16,
+        "label": "INDICATION"
+      },
+      {
+        "start": 25,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o bilat leg pain and abd pain for since 3 days",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 56,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o htn with rt sided weakness and bilat leg pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 30,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 35,
+        "end": 49,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with af reports cp and n/v",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 24,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known chf c/o lt arm pain and ha",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o mi c/o rt sided weakness for for 3 weeks",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 30,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 35,
+        "end": 46,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "known ra c/o cp and sob",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with copd reports abd pain and n/v",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 17,
+        "label": "INDICATION"
+      },
+      {
+        "start": 26,
+        "end": 34,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 39,
+        "end": 42,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known ckd c/o cp and bilat leg pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o ckd with n/v and sob",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o ra with sob and abd pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "label": "INDICATION"
+      },
+      {
+        "start": 12,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o sob and bilat leg pain for for 5 days",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 34,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 39,
+        "end": 49,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o oa presenting with sob rt sided weakness for for 5 days",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "label": "INDICATION"
+      },
+      {
+        "start": 23,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 44,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 49,
+        "end": 59,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o copd with lt arm pain and n/v",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 8,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o pvd with lt arm pain and abd pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with ra reports n/v and cp",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 24,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o pvd presenting with rt sided weakness sob for for 2 months",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 24,
+        "end": 41,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 42,
+        "end": 45,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 50,
+        "end": 62,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o chf presenting with sob rt sided weakness for for 12 hours",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 24,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 45,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 50,
+        "end": 62,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o copd c/o n/v for for 3 weeks",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 6,
+        "end": 10,
+        "label": "INDICATION"
+      },
+      {
+        "start": 15,
+        "end": 18,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 34,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o sob and bilat leg pain for since childhood",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 34,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 39,
+        "end": 54,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "known af c/o rt sided weakness and cp",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 30,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 35,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with oa reports n/v and rt sided weakness",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 24,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 49,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known ckd c/o abd pain and rt sided weakness",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 44,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o ckd c/o lt arm pain for for 4 days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 40,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "known cad c/o n/v and cp",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with htn reports lt arm pain and rt sided weakness",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 16,
+        "label": "INDICATION"
+      },
+      {
+        "start": 25,
+        "end": 36,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 41,
+        "end": 58,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with pvd reports bilat leg pain and cp",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 16,
+        "label": "INDICATION"
+      },
+      {
+        "start": 25,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 46,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with oa reports ha and lt arm pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 24,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 42,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o chf c/o cp for since last month",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 37,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "known cad c/o abd pain and sob",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o copd presenting with ha cp for for years",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 8,
+        "label": "INDICATION"
+      },
+      {
+        "start": 25,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 30,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 35,
+        "end": 44,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "known pvd c/o cp and abd pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known dm c/o sob and bilat leg pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known oa c/o sob and n/v",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with htn reports n/v and ha",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 16,
+        "label": "INDICATION"
+      },
+      {
+        "start": 25,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o cad presenting with bilat leg pain ha for since 3 days",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 24,
+        "end": 38,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 39,
+        "end": 41,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 46,
+        "end": 58,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o oa presenting with sob rt sided weakness for since 2 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "label": "INDICATION"
+      },
+      {
+        "start": 23,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 44,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 49,
+        "end": 61,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with ckd reports abd pain and lt arm pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 16,
+        "label": "INDICATION"
+      },
+      {
+        "start": 25,
+        "end": 33,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 38,
+        "end": 49,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with copd reports ha and lt arm pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 17,
+        "label": "INDICATION"
+      },
+      {
+        "start": 26,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 44,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o copd with ha and sob",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 8,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o mi with n/v and lt arm pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "label": "INDICATION"
+      },
+      {
+        "start": 12,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o mi with sob and n/v",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "label": "INDICATION"
+      },
+      {
+        "start": 12,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known dm c/o n/v and sob",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o af with abd pain and n/v",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "label": "INDICATION"
+      },
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with oa reports lt arm pain and ha",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 24,
+        "end": 35,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 40,
+        "end": 42,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o cad c/o cp for for 2 days",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 31,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o pvd presenting with bilat leg pain lt arm pain for for 2 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 24,
+        "end": 38,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 39,
+        "end": 50,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 55,
+        "end": 65,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o oa c/o n/v for for 1 week",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 31,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o dm with lt arm pain and cp",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "label": "INDICATION"
+      },
+      {
+        "start": 12,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o n/v and cp for since 3 days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 39,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "known htn c/o sob and abd pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 22,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o cad presenting with n/v bilat leg pain for since this morning",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 24,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 42,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 47,
+        "end": 65,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o ckd with lt arm pain and rt sided weakness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 46,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o ra presenting with abd pain sob for since 3 days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "label": "INDICATION"
+      },
+      {
+        "start": 23,
+        "end": 31,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 35,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 40,
+        "end": 52,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with ra reports lol and n/v",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 24,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o ra with n/v and abd pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "label": "INDICATION"
+      },
+      {
+        "start": 12,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o sob and rt sided weakness for for 5 days",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 37,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 42,
+        "end": 52,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with mi has n/v abd pain and rt sided weakness",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 20,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 32,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 37,
+        "end": 54,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known cad c/o bilat leg pain and rt sided weakness",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 50,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o ha and n/v for since yesterday",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 42,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o ha and n/v for for 1 week",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 37,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o oa presenting with ha lt arm pain for since last night",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "label": "INDICATION"
+      },
+      {
+        "start": 23,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 37,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 42,
+        "end": 58,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with mi reports cp and abd pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 24,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with dm reports sob and loc",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 24,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with ms has lol sob and loc",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 20,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known htn c/o rt sided weakness and lt arm pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 31,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 47,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with htn reports bilat leg pain and loc",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 16,
+        "label": "INDICATION"
+      },
+      {
+        "start": 25,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 47,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with oa reports sob and abd pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 24,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with chf reports loc and rt sided weakness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 16,
+        "label": "INDICATION"
+      },
+      {
+        "start": 25,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 50,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o ra c/o sob for for 1 month",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 32,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with af has lol ha and ha",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with copd reports rt sided weakness and sob",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 17,
+        "label": "INDICATION"
+      },
+      {
+        "start": 26,
+        "end": 43,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 48,
+        "end": 51,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o pvd with n/v and lt arm pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with mi has bilat leg pain n/v and n/v",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 20,
+        "end": 34,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 35,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o dm with cp and bilat leg pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "label": "INDICATION"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known als c/o lol and cp",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o ra presenting with loc ha for since last week",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "label": "INDICATION"
+      },
+      {
+        "start": 23,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 49,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "known mi c/o sob and lol",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o htn presenting with lol loc for since yesterday",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 24,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 31,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 51,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o htn with cp and lol",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o pvd presenting with n/v rt sided weakness for for 10 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 24,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 45,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 50,
+        "end": 61,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with dm has cp rt sided weakness and loc",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 40,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 45,
+        "end": 48,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o cp and sob for for 1 week",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 37,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "known ms c/o n/v and lol",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known mi c/o lt arm pain and lol",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o als c/o abd pain for for 48 hours",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 39,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o rt sided weakness and n/v for for 6 hours",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 37,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 42,
+        "end": 53,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o n/v and lt arm pain for for 10 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 31,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 47,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with ms reports lt arm pain and cp",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 24,
+        "end": 35,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 40,
+        "end": 42,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with ra reports ha and sob",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 24,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o htn with loc and sob",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o ckd c/o bilat leg pain for for 2 months",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 45,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with cad has abd pain n/v and sob",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 16,
+        "label": "INDICATION"
+      },
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 33,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 38,
+        "end": 41,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with ckd has abd pain loc and rt sided weakness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 16,
+        "label": "INDICATION"
+      },
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 33,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 38,
+        "end": 55,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o abd pain and lol for since morning",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 46,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with als reports bilat leg pain and lol",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 16,
+        "label": "INDICATION"
+      },
+      {
+        "start": 25,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 47,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known chf c/o n/v and cp",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o abd pain and rt sided weakness for for 24 hours",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 42,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 47,
+        "end": 59,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "known mi c/o cp and rt sided weakness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o ckd with lt arm pain and cp",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o ckd c/o ha for for 3 hours",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 32,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with af has abd pain cp and cp",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 20,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with cad has lt arm pain rt sided weakness and n/v",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 16,
+        "label": "INDICATION"
+      },
+      {
+        "start": 21,
+        "end": 32,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 50,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 55,
+        "end": 58,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o cp and loc for for 3 hours",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 38,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o chf presenting with lol abd pain for for 2 months",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 24,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 36,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 41,
+        "end": 53,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with als reports rt sided weakness and loc",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 16,
+        "label": "INDICATION"
+      },
+      {
+        "start": 25,
+        "end": 42,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 47,
+        "end": 50,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known ckd c/o rt sided weakness and lol",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 31,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o ms presenting with abd pain lol for for 2 months",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "label": "INDICATION"
+      },
+      {
+        "start": 23,
+        "end": 31,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 35,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 40,
+        "end": 52,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with oa has ha abd pain and bilat leg pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 31,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 50,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with pvd reports bilat leg pain and n/v",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 16,
+        "label": "INDICATION"
+      },
+      {
+        "start": 25,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 47,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o als c/o n/v for since childhood",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 22,
+        "end": 37,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with oa reports loc and sob",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 24,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o oa c/o loc for for 2 days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 31,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with oa reports rt sided weakness and ha",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 24,
+        "end": 41,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 46,
+        "end": 48,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o lol and ha for for 12 hours",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 39,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o ra c/o lol for since yesterday",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 36,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o als c/o lt arm pain for for 2 days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 40,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o ms with sob and loc",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "label": "INDICATION"
+      },
+      {
+        "start": 12,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o dm presenting with loc lol for for 8 hours",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "label": "INDICATION"
+      },
+      {
+        "start": 23,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 30,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 35,
+        "end": 46,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "known oa c/o cp and bilat leg pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with af reports abd pain and n/v",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 24,
+        "end": 32,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 37,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o chf with loc and cp",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o htn with bilat leg pain and ha",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with htn has lt arm pain sob and lt arm pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 16,
+        "label": "INDICATION"
+      },
+      {
+        "start": 21,
+        "end": 32,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o ra with n/v and lt arm pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "label": "INDICATION"
+      },
+      {
+        "start": 12,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known pvd c/o ha and cp",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o htn presenting with bilat leg pain rt sided weakness for since noon",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 24,
+        "end": 38,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 39,
+        "end": 56,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 61,
+        "end": 71,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "known af c/o sob and lol",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o af c/o cp for since last month",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 36,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o ra c/o lol for since 3 days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 33,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o dm presenting with rt sided weakness ha for since morning",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "label": "INDICATION"
+      },
+      {
+        "start": 23,
+        "end": 40,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 41,
+        "end": 43,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 48,
+        "end": 61,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with mi reports lol and cp",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 24,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with oa reports lol and lt arm pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 24,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 43,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o mi with sob and lt arm pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "label": "INDICATION"
+      },
+      {
+        "start": 12,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o lt arm pain and n/v for since last week",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 31,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 51,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o pvd with lol and ha",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o ckd presenting with lol sob for for 10 days",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 24,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 31,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 47,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o lol and lt arm pain for for few days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 31,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 48,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with oa reports ha and lt arm pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 24,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 42,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with ckd reports bilat leg pain and sob",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 16,
+        "label": "INDICATION"
+      },
+      {
+        "start": 25,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 47,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o ckd with lt arm pain and sob",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o chf c/o lol for for 12 hours",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 22,
+        "end": 34,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o loc and abd pain for since morning",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 46,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o sob and loc for since 2 days",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 40,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with ra reports cp and ha",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 24,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o cad with bilat leg pain and abd pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with mi has abd pain sob and lol",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 20,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 32,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 37,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with chf has bilat leg pain sob and lt arm pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 16,
+        "label": "INDICATION"
+      },
+      {
+        "start": 21,
+        "end": 35,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 55,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with af has lt arm pain cp and n/v",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 20,
+        "end": 31,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 34,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 39,
+        "end": 42,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o af presenting with lol lt arm pain for for 6 hours",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "label": "INDICATION"
+      },
+      {
+        "start": 23,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 38,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 43,
+        "end": 54,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o als presenting with rt sided weakness bilat leg pain for for 48 hours",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 24,
+        "end": 41,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 42,
+        "end": 56,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 61,
+        "end": 73,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o bilat leg pain and lol for since 3 days",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 34,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 39,
+        "end": 51,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o ra presenting with abd pain cp for since yesterday",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "label": "INDICATION"
+      },
+      {
+        "start": 23,
+        "end": 31,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 34,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 39,
+        "end": 54,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "known oa c/o lol and rt sided weakness",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o ms with lol and rt sided weakness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "label": "INDICATION"
+      },
+      {
+        "start": 12,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with af reports lt arm pain and n/v",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 24,
+        "end": 35,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 40,
+        "end": 43,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with htn reports rt sided weakness and loc",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 16,
+        "label": "INDICATION"
+      },
+      {
+        "start": 25,
+        "end": 42,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 47,
+        "end": 50,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o cad c/o lt arm pain for since last night",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 46,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient c/o rt sided weakness and lt arm pain for since childhood",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 45,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 50,
+        "end": 65,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o cad with loc and n/v",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o ra c/o lol for for 3 hours",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 32,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o chf c/o cp for since last week",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 36,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o ms presenting with rt sided weakness n/v for for 1 month",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "label": "INDICATION"
+      },
+      {
+        "start": 23,
+        "end": 40,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 41,
+        "end": 44,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 49,
+        "end": 60,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "known pvd c/o bilat leg pain and abd pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 41,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o htn c/o bilat leg pain for for 8 hours",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 44,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o cad presenting with lt arm pain n/v for for years",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 24,
+        "end": 35,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 53,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o ra c/o cp for since noon",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 30,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with ckd has loc cp and abd pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 16,
+        "label": "INDICATION"
+      },
+      {
+        "start": 21,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o chf c/o cp for since 3 days",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 33,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with dm has ha sob and lol",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "k/c/o dm c/o rt sided weakness for since dawn",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 30,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 35,
+        "end": 45,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with oa reports rt sided weakness and n/v",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 24,
+        "end": 41,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 46,
+        "end": 49,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o ra presenting with ha lt arm pain for for 24 hours",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "label": "INDICATION"
+      },
+      {
+        "start": 23,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 37,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 42,
+        "end": 54,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "h/o cad presenting with lt arm pain lol for for 3 weeks",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 24,
+        "end": 35,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 39,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 55,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "patient with copd reports loc and lol",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 17,
+        "label": "INDICATION"
+      },
+      {
+        "start": 26,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with ra has lol abd pain and ha",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with dm has abd pain rt sided weakness and cp",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "INDICATION"
+      },
+      {
+        "start": 20,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 46,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 51,
+        "end": 53,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "h/o htn with ha and n/v",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "label": "INDICATION"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "known ckd c/o abd pain and lol",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "INDICATION"
+      },
+      {
+        "start": 14,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  }
+]

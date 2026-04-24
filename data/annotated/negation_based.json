@@ -1,0 +1,7515 @@
+[
+  {
+    "text": "no fever but i have headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 3,
+        "end": 8,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies chest pain but reports back pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 38,
+        "end": 47,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no cough but i have runny nose",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 3,
+        "end": 8,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies vomiting but has nausea",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no dizziness but i feel weak",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 3,
+        "end": 12,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies shortness of breath but has cough",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 34,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 43,
+        "end": 48,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no swelling but i have pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 3,
+        "end": 11,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies fever but reports chills",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no rash but i have itching",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 3,
+        "end": 7,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies nausea but has vomiting",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no headache but i have neck pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 3,
+        "end": 11,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies abdominal pain but reports bloating",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 42,
+        "end": 50,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no fatigue but i have weakness",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 3,
+        "end": 10,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 22,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies palpitations but has chest discomfort",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 52,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no bleeding but i have bruising",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 3,
+        "end": 11,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies dyspnea but reports cough",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 35,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no joint pain but i have muscle ache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 3,
+        "end": 13,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies constipation but has diarrhea",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 44,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no loss of appetite but i have nausea",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 3,
+        "end": 19,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies syncope but reports dizziness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 35,
+        "end": 44,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i deny having fever",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 14,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies chest pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i do not have cough",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 14,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies vomiting",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have no headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 10,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies nausea",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am not having dizziness",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 16,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies shortness of breath",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i dont have any pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 16,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies abdominal pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "without fever or chills",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 17,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient without chest pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no evidence of fever",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient shows no signs of infection",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 26,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "absence of chest pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 11,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has no fever",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "free of pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient is pain free",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 11,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "negative for fever",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient negative for chest pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "ruled out fever",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 10,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "chest pain ruled out",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no complaint of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has no complaint of pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 28,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no history of fever",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 14,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies history of chest pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 26,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "never had fever",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 10,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient never experienced chest pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 26,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "neither fever nor chills",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 18,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has neither cough nor cold",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 20,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no fever no cough but i have body ache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 3,
+        "end": 8,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 12,
+        "end": 17,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies fever and cough but has fatigue",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 30,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 39,
+        "end": 46,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no chest pain no sob but i have palpitations",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 3,
+        "end": 13,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 17,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 44,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies headache and dizziness but reports nausea",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 37,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 50,
+        "end": 56,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no vomiting no diarrhea but i have stomach pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 3,
+        "end": 11,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 35,
+        "end": 47,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies rash and itching but has swelling",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 19,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 31,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 40,
+        "end": 48,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no weakness no fatigue but i have pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 3,
+        "end": 11,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 15,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies bleeding and bruising but reports pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 36,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 49,
+        "end": 53,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "absent fever",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "fever absent",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient with absent chest pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 20,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "chest pain absent on examination",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "not complaining of fever",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 19,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient not complaining of pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 27,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "does not have fever",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 14,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient does not have chest pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 22,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "did not experience fever",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 19,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient did not experience chest pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 27,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "has not had fever",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has not had chest pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 20,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "reports no fever",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 11,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports no chest pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 19,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "states no fever",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 10,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient states no chest pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 18,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "claims no fever",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 10,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient claims no chest pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 18,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mentions no fever",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 12,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient mentions no chest pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 20,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "indicates no fever",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient indicates no chest pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "refutes fever",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient refutes chest pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "disclaims fever",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 10,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient disclaims chest pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 18,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "rejects fever",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient rejects chest pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 16,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no fever noted on examination",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 3,
+        "end": 8,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "chest pain not noted",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no fever observed",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 3,
+        "end": 8,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "chest pain not observed",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no fever detected",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 3,
+        "end": 8,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "chest pain not detected",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no fever found",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 3,
+        "end": 8,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "chest pain not found",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no fever present",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 3,
+        "end": 8,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "chest pain not present",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no fever identified",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 3,
+        "end": 8,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "chest pain not identified",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no fever documented",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 3,
+        "end": 8,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "chest pain not documented",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient complains of headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "denies tinnitus constipation and bruising",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 16,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 41,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no sweating no joint pain but soreness",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 3,
+        "end": 11,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 15,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i don't have inflammation but i have chest pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 37,
+        "end": 47,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no nausea but have weight loss",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 3,
+        "end": 9,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies headache but reports spasms",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 42,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has no fatigue or loss of appetite",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 42,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "denies vomiting seizures and joint pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no blurred vision no diarrhea but edema",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 3,
+        "end": 17,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no fatigue but have edema",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 3,
+        "end": 10,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i don't have abdominal pain but i have joint pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 39,
+        "end": 49,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies insomnia but reports pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies sweating but reports itching",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 43,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i don't have bruising but i have confusion",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 42,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no bruising but have atrophy",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 3,
+        "end": 11,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies abdominal pain and discharge",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 43,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies stiffness but reports headache",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 37,
+        "end": 45,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies stiffness but reports rigidity",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 37,
+        "end": 45,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no seizures but experiencing weight loss",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 3,
+        "end": 11,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "denies tremor tingling and rigidity",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 13,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 14,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no itching but have redness",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 3,
+        "end": 10,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "denies ulcers fatigue and palpitations",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 13,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 14,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has no vomiting or heartburn",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies constipation and seizures",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "denies redness pain and itching",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has no soreness or jaundice",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no chest pain no inflammation but lesions",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 3,
+        "end": 13,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 17,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 41,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies dizziness but reports cough",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 37,
+        "end": 42,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has no irritation or swelling",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i don't have fatigue but i have diarrhea",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no confusion no vertigo but edema",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 3,
+        "end": 12,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 16,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i don't have vertigo but i have dizziness",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 41,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i don't have stiffness but i have loss of appetite",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 50,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies rash but reports bruising",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 19,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no soreness no bruising but joint pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 3,
+        "end": 11,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i don't have weakness but i have cramps",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no soreness but experiencing discharge",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 3,
+        "end": 11,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies rigidity and nausea",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no tingling but experiencing loss of appetite",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 3,
+        "end": 11,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 45,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i don't have swelling but i have bloating",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 41,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has no bloating or stiffness",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "denies vertigo palpitations and soreness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 15,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has no fatigue or seizures",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i don't have jaundice but i have blurred vision",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 47,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no sob but have bloating",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 3,
+        "end": 6,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i don't have ulcers but i have constipation",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 19,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 43,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has no stiffness or seizures",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no swelling but have confusion",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 3,
+        "end": 11,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies discharge and fever",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "denies inflammation pain and tingling",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 19,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no jaundice but have soreness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 3,
+        "end": 11,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has no confusion or edema",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 15,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i don't have fatigue but i have blurred vision",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 46,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no redness no stiffness but blurred vision",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 3,
+        "end": 10,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 14,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 42,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no headache but have weight loss",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 3,
+        "end": 11,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "denies dizziness rash and weight loss",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 17,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no itching no bloating but muscle pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 3,
+        "end": 10,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 14,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies tingling and chest pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies pallor but reports soreness",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 15,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 42,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has no tremor or atrophy",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no rigidity but have joint pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 3,
+        "end": 11,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies hearing loss and heartburn",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 15,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 41,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "denies stiffness muscle pain and chills",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 17,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no palpitations no sweating but lesions",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 3,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no dizziness but have irritation",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 3,
+        "end": 12,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 22,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies chills and soreness",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no discharge but have itching",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 3,
+        "end": 12,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 22,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i don't have headache but i have atrophy",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no confusion no fever but hearing loss",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 3,
+        "end": 12,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 16,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no insomnia but experiencing pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 3,
+        "end": 11,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no swelling no stiffness but sweating",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 3,
+        "end": 11,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 15,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "denies confusion bleeding and swelling",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 17,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no cramps but have vertigo",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 3,
+        "end": 9,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies stiffness and tremor",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 15,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no confusion no itching but stiffness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 3,
+        "end": 12,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 16,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies vomiting but reports atrophy",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 43,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no ulcers no pain but soreness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 3,
+        "end": 9,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 22,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has no constipation or rigidity",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no constipation but experiencing headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 3,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 41,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i don't have loss of appetite but i have spasms",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 41,
+        "end": 47,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no headache no weakness but bloating",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 3,
+        "end": 11,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i don't have chills but i have bloating",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 19,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no vomiting but have cough",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 3,
+        "end": 11,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i don't have diarrhea but i have chills",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no abdominal pain but have numbness",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 3,
+        "end": 17,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i don't have sweating but i have tingling",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 41,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has no irritation or numbness",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "denies tinnitus chills and spasms",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 16,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "denies numbness fever and headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 16,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has no atrophy or discharge",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has no sweating or bruising",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies ulcers but reports pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no palpitations but have inflammation",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 3,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no palpitations but experiencing fatigue",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 3,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "denies lesions tremor and stiffness",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 15,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no ulcers but have cough",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 3,
+        "end": 9,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has no joint pain or vertigo",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies vomiting but reports pallor",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 42,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no pain but experiencing vertigo",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 3,
+        "end": 7,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no spasms but experiencing numbness",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 3,
+        "end": 9,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has no abdominal pain or fatigue",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "denies headache soreness and pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies diarrhea but reports rash",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies atrophy but reports itching",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 35,
+        "end": 42,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no rash but experiencing heartburn",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 3,
+        "end": 7,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies loss of appetite but reports back pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 15,
+        "end": 31,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 53,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "denies fatigue insomnia and weakness",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no pallor no ulcers but loss of appetite",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 3,
+        "end": 9,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 13,
+        "end": 19,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "denies lesions tinnitus and weight loss",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies bruising but reports abdominal pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 50,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i don't have fever but i have pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 18,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no discharge but experiencing sweating",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 3,
+        "end": 12,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies inflammation and nausea",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 15,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no fever no confusion but dizziness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 3,
+        "end": 8,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 12,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies edema and sweating",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has no discharge or hearing loss",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies tinnitus and inflammation",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no atrophy but have cramps",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 3,
+        "end": 10,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies dizziness and back pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no cramps but experiencing sob",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 3,
+        "end": 9,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i don't have stiffness but i have pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies atrophy but reports inflammation",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 35,
+        "end": 47,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no palpitations no sob but burning",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 3,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no seizures but experiencing insomnia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 3,
+        "end": 11,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies bruising but reports tingling",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 44,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "denies edema tinnitus and joint pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 13,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no joint pain no blurred vision but pallor",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 3,
+        "end": 13,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 17,
+        "end": 31,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 42,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i don't have discharge but i have dysmenorrhea",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 46,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i don't have retention but i have sweating",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 42,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i don't have redness but i have tingling",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies diarrhea and anorexia",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i don't have hearing loss but i have wheezing",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 37,
+        "end": 45,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no complaints of inflammation or irritation",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 17,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 43,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has no blurred vision or joint pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 43,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies dizziness but reports inflammation",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 15,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 37,
+        "end": 49,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no complaints of hoarseness or rash",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 17,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports absence of chest pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 27,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient without hemoptysis or dysuria",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 16,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient without headache or sweating",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no abdominal pain no bruising but swelling",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 3,
+        "end": 17,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 42,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has no lesions or hemoptysis",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has no vertigo or swelling",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient without jaundice or spasms",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies loss of appetite but reports constipation",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 31,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 56,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies weight loss but reports weakness",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 39,
+        "end": 47,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports absence of chills",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 27,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no insomnia no palpitations but rash",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 3,
+        "end": 11,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 15,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i don't have diarrhea but i have polyuria",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 41,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no complaints of tingling or discharge",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 17,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i never had vertigo",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports absence of vomiting",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 27,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no complaints of headache or weight loss",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 17,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports absence of palpitations",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 27,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no cough but have dysphagia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 3,
+        "end": 8,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 18,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have no constipation but swelling",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 10,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i never had urgency",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 12,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no swelling no jaundice but cough",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 3,
+        "end": 11,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no complaints of heartburn or fatigue",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 17,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient without lesions or muscle pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 16,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "denies atrophy redness and sweating",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 15,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports absence of incontinence",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 27,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no complaints of seizures or burning",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 17,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient without urgency or incontinence",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 16,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies stridor and stiffness",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports absence of muscle pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 27,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has no urgency or cough",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies weight loss but reports lesions",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 39,
+        "end": 46,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no cramps but have sob",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 3,
+        "end": 9,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no spasms but have loss of appetite",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 3,
+        "end": 9,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies hematuria but reports weakness",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 37,
+        "end": 45,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has no edema or dehydration",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has no cough or pallor",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has no hemoptysis or lesions",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i never had fever",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 12,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports absence of constipation",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 27,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient without amenorrhea or burning",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 16,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have no hearing loss but nausea",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 10,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no complaints of hematuria or wheezing",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 17,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "denies chest pain constipation and seizures",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 18,
+        "end": 30,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 35,
+        "end": 43,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no tinnitus but have vertigo",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 3,
+        "end": 11,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i don't have tinnitus but i have sweating",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 41,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies insomnia but reports pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have no stiffness but headache",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 10,
+        "end": 19,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no redness but have hematuria",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 3,
+        "end": 10,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports absence of frequency",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 27,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have no bleeding but loss of appetite",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 10,
+        "end": 18,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no complaints of pain or fever",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 17,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies fever and muscle pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no bloating but have dehydration",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 3,
+        "end": 11,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports absence of jaundice",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 27,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i don't have epistaxis but i have fatigue",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 41,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no hoarseness but experiencing sob",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 3,
+        "end": 13,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies bloating but reports dehydration",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 47,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have no palpitations but hyperesthesia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 10,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies insomnia and amenorrhea",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have no dehydration but hypoesthesia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 10,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no history of syncope or inflammation",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 14,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports absence of photophobia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 27,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no pallor no bloating but retention",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 3,
+        "end": 9,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 13,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has never experienced fever",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 30,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies bruising but reports irritation",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 46,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no history of blurred vision or numbness",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 14,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no history of dysmenorrhea or swelling",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 14,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have no incontinence but ulcers",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 10,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies edema but reports chest pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 43,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no complaints of amenorrhea or cramps",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 17,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i don't have loss of appetite but i have redness",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 41,
+        "end": 48,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "denies confusion bloating and anorexia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 17,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has no nausea or chest pain",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 15,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no tremor but have joint pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 3,
+        "end": 9,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no burning no fatigue but swelling",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 3,
+        "end": 10,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 14,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies pain and vertigo",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 19,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no atrophy but have seizures",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 3,
+        "end": 10,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no heartburn but experiencing loss of appetite",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 3,
+        "end": 12,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 46,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has never experienced ulcers",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 30,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no soreness but experiencing photophobia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 3,
+        "end": 11,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies vomiting but reports tinnitus",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 44,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies numbness but reports paresthesia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 47,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies any diarrhea",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 19,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient without dehydration or cough",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 16,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have no seizures but bruising",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 10,
+        "end": 18,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has no dysphagia or hyperesthesia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 41,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient without palpitations or redness",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 16,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies vertigo and bloating",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has no fever or chills",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no history of fatigue or numbness",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 14,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient without dizziness or fatigue",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 16,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i don't have numbness but i have nocturia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 13,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 41,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has no stridor or chest pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i don't have anorexia but i have frequency",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 42,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies loss of appetite but reports allodynia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 31,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 44,
+        "end": 53,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no history of abdominal pain or chest pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 14,
+        "end": 28,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 42,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no hemoptysis no dysphagia but muscle pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 3,
+        "end": 13,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 17,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 42,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient without edema or anorexia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 16,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no tremor but have diarrhea",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 3,
+        "end": 9,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 19,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i don't have syncope but i have hyperesthesia",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 13,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 45,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies rash but reports irritation",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 19,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 42,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies headache but reports loss of appetite",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 52,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies weakness and stiffness",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have no epistaxis but tinnitus",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 10,
+        "end": 19,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no complaints of chest pain or photophobia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 17,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 42,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies headache but reports wheezing",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 44,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no history of chills or bloating",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 14,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 24,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no dysmenorrhea but have burning",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 3,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i never had vomiting",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no history of confusion or bloating",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 14,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies amenorrhea but reports fatigue",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 38,
+        "end": 45,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no dysuria but have photophobia",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 3,
+        "end": 10,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i don't have dysphagia but i have numbness",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 42,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies dehydration but reports pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 39,
+        "end": 43,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no ulcers but experiencing epistaxis",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 3,
+        "end": 9,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i don't have edema but i have seizures",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 13,
+        "end": 18,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies amenorrhea but reports headache",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 38,
+        "end": 46,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has no wheezing or fever",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports absence of joint pain",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 27,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have no soreness but scotoma",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 10,
+        "end": 18,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 23,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has no redness or cough",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies any rash",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 19,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no dysuria but experiencing discharge",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 3,
+        "end": 10,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies dysphagia but reports incontinence",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 37,
+        "end": 49,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies any chills",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 19,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i don't have urgency but i have hearing loss",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 20,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 44,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no history of dehydration or joint pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 14,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no heartburn no loss of appetite but hypoesthesia",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 3,
+        "end": 12,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 16,
+        "end": 32,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 37,
+        "end": 49,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "denies bloating nocturia and hearing loss",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 41,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "denies lesions palpitations and jaundice",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 15,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no complaints of frequency or soreness",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 17,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i never had vertigo",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no frequency but experiencing urgency",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 3,
+        "end": 12,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no pain no muscle pain but heartburn",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 3,
+        "end": 7,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 11,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies tingling and atrophy",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no history of constipation or hemoptysis",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 14,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i don't have fever but i have hematuria",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 13,
+        "end": 18,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has never experienced bruising",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 30,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies numbness and heartburn",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies anorexia and muscle pain",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no history of hyperesthesia or back pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 14,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has never experienced diarrhea",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 30,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no complaints of dysphagia or irritation",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 17,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has never experienced fever",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 30,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no atrophy but have scotoma",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 3,
+        "end": 10,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies any swelling",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 19,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient without paresthesia or pallor",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 16,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies incontinence and loss of appetite",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 48,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has no irritation or stridor",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no stridor but have insomnia",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 3,
+        "end": 10,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no complaints of weakness or urgency",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 17,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no wheezing but have tinnitus",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 3,
+        "end": 11,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 21,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has no soreness or pain",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies tinnitus and confusion",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies hyperalgesia but reports wheezing",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 40,
+        "end": 48,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies irritation and spasms",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no joint pain no abdominal pain but edema",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 3,
+        "end": 13,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 17,
+        "end": 31,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 41,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies chills but reports ulcers",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 34,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "denies atrophy incontinence and tingling",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 15,
+        "end": 27,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 32,
+        "end": 40,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has never experienced urgency",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 30,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient has never experienced diarrhea",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 30,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies tinnitus and confusion",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient reports absence of phonophobia",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 27,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no scotoma but have photophobia",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 3,
+        "end": 10,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 20,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies seizures and epistaxis",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies tingling but reports retention",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 45,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no complaints of hyperalgesia or weakness",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 17,
+        "end": 29,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 33,
+        "end": 41,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no history of weakness or loss of appetite",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 14,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 26,
+        "end": 42,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies stridor but reports scotoma",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 35,
+        "end": 42,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient denies wheezing but reports nausea",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 36,
+        "end": 42,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no history of lesions or syncope",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 14,
+        "end": 21,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 25,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no lesions no bleeding but blurred vision",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 3,
+        "end": 10,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 14,
+        "end": 22,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 27,
+        "end": 41,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "patient without presyncope or numbness",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 16,
+        "end": 26,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 30,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no complaints of nocturia or heartburn",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 17,
+        "end": 25,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "denies allodynia urgency and presyncope",
+    "source": "patient",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 17,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 29,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no complaints of syncope or ulcers",
+    "source": "pharma",
+    "entities": [
+      {
+        "start": 17,
+        "end": 24,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 28,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i never had dizziness",
+    "source": "mr",
+    "entities": [
+      {
+        "start": 12,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "no amenorrhea but experiencing itching",
+    "source": "doctor",
+    "entities": [
+      {
+        "start": 3,
+        "end": 13,
+        "label": "SYMPTOM"
+      },
+      {
+        "start": 31,
+        "end": 38,
+        "label": "SYMPTOM"
+      }
+    ]
+  }
+]

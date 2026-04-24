@@ -1,0 +1,69 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+NerVenv/
+.venv
+
+# Model outputs (trained models are large)
+model/output/*
+!model/output/.gitkeep
+
+# Logs
+logs/*.log
+logs/
+
+# Data
+data/symspell_dict/
+data/raw/*
+!data/raw/.gitkeep
+
+# SpaCy models
+*.spacy
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Temporary files
+*.tmp
+*.bak
+*.orig
+
+# Scripts (temporary helper scripts)
+add_*.py
+generate_*.py
+complete_*.py
+verify_spans.py

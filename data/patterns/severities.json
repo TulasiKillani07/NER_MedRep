@@ -1,0 +1,20 @@
+[
+  {"label": "SEVERITY", "pattern": "mild"},
+  {"label": "SEVERITY", "pattern": "moderate"},
+  {"label": "SEVERITY", "pattern": "severe"},
+  {"label": "SEVERITY", "pattern": "very severe"},
+  {"label": "SEVERITY", "pattern": "extreme"},
+  {"label": "SEVERITY", "pattern": "slight"},
+  {"label": "SEVERITY", "pattern": "minor"},
+  {"label": "SEVERITY", "pattern": "serious"},
+  {"label": "SEVERITY", "pattern": "critical"},
+  {"label": "SEVERITY", "pattern": "acute"},
+  {"label": "SEVERITY", "pattern": "chronic"},
+  {"label": "SEVERITY", "pattern": "intense"},
+  {"label": "SEVERITY", "pattern": "unbearable"},
+  {"label": "SEVERITY", "pattern": "tolerable"},
+  {"label": "SEVERITY", "pattern": "high"},
+  {"label": "SEVERITY", "pattern": "low"},
+  {"label": "SEVERITY", "pattern": "very high"},
+  {"label": "SEVERITY", "pattern": "very low"}
+]
