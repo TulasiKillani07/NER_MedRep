@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Multi-Symptom Detector
 
 Domain-specific NER model to detect symptoms, duration, severity from medical queries.
@@ -55,3 +56,6 @@ multisymptomp_detector/
 │   └── app.py                  # FastAPI REST API
 └── logs/                       # application logs
 ```
+=======
+# NER_MedRepAI
+>>>>>>> 5ad505cd35efbc153ac74b7e64d46be52ae7ff6d
