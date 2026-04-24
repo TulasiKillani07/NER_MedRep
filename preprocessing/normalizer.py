@@ -31,7 +31,7 @@ ABBREVIATIONS = {
 def normalize(text: str) -> str:
     """
     Full normalization pipeline for a raw user query.
-    Returns a cleaned, lowercase string ready for spell check and NER.
+    Returns a cleaned, lowercase string ready for synonym mapping and NER.
     """
     text = _lowercase(text)
     text = _remove_extra_spaces(text)

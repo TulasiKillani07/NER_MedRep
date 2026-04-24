@@ -12,7 +12,6 @@ from spacy.pipeline import EntityRuler
 from loguru import logger
 
 from preprocessing.normalizer import normalize
-from preprocessing.spell_checker import correct
 from preprocessing.synonym_mapper import map_synonyms
 from preprocessing.negation_detector import apply_negation_to_entities
 
@@ -72,33 +71,30 @@ def predict(text: str) -> dict:
     """
     Full inference pipeline:
     1. Normalize text
-    2. Spell check
-    3. Synonym mapping
-    4. Run NER (trained model + EntityRuler fallback)
-    5. Apply negation detection
+    2. Synonym mapping (handles spelling corrections + verb forms)
+    3. Run NER (trained model + EntityRuler fallback)
+    4. Apply negation detection
+    5. Add canonical terms for DB search
     6. Return structured result
 
     Args:
         text: raw user input string
 
     Returns:
-        dict with original text, processed text, and list of entities
+        dict with original text, processed text, and list of entities with canonical terms
     """
     original_text = text
 
     # Step 1: Normalize
     text = normalize(text)
 
-    # Step 2: Spell check
-    text = correct(text)
-
-    # Step 3: Synonym mapping
+    # Step 2: Synonym mapping (replaces spell check + handles verb forms)
     text = map_synonyms(text)
 
-    # Step 4: Run NER
+    # Step 3: Run NER
     doc = _nlp(text)
 
-    # Step 5: Apply negation detection
+    # Step 4: Apply negation detection
     entities = apply_negation_to_entities(doc)
 
     # Filter to only include our custom labels
@@ -106,9 +102,36 @@ def predict(text: str) -> dict:
         ent for ent in entities 
         if ent.get("label") in {"SYMPTOM", "INDICATION", "SEVERITY", "DURATION"}
     ]
+    
+    # Step 5: Add canonical terms for DB search
+    for entity in filtered_entities:
+        entity["canonical_term"] = _get_canonical_term(entity["text"])
 
     return {
         "original_text": original_text,
         "processed_text": text,
         "entities": filtered_entities,
     }
+
+
+def _get_canonical_term(text: str) -> str:
+    """
+    Get canonical term for DB search.
+    If the detected entity text has a synonym mapping, use the canonical form.
+    Otherwise, use the detected text as-is.
+    
+    This helps with DB keyword search where "burning in chest" should search for "chest pain".
+    """
+    # Load synonyms
+    synonyms_path = Path(__file__).parent.parent / "data" / "patterns" / "synonyms.json"
+    if synonyms_path.exists():
+        with open(synonyms_path, "r") as f:
+            synonyms = json.load(f)
+        
+        # Check if detected text has a canonical mapping
+        text_lower = text.lower()
+        if text_lower in synonyms:
+            return synonyms[text_lower]
+    
+    # Fallback: use detected text as-is
+    return text

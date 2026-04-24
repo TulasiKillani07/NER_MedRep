@@ -49,6 +49,10 @@ class EntityResult(BaseModel):
     start_char: int
     end_char: int
     negated: bool
+    canonical_term: str = Field(
+        ...,
+        description="Canonical/standardized term for DB search. If synonym mapping exists, uses canonical form; otherwise uses detected text."
+    )
 
 
 class PredictResponse(BaseModel):
@@ -87,9 +91,10 @@ def predict_entities(request: QueryRequest):
     - **text**: The raw user input (e.g., "I have fever and headache from 3 days")
 
     Returns detected entities with:
-    - **text**: the entity text
+    - **text**: the entity text as detected by the model (for display)
     - **label**: SYMPTOM / INDICATION / SEVERITY / DURATION
     - **negated**: True if the entity is negated (e.g., "no fever")
+    - **canonical_term**: standardized term for DB keyword search (e.g., "burning in chest" → "chest pain")
     """
     try:
         start = time.time()
