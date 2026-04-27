@@ -1,0 +1,161 @@
+acei
+acid reflux
+acidity
+acute coronary syndrome
+acute respiratory distress syndrome
+af
+alcoholic liver disease
+allergic
+allergies
+als
+alzheimer
+amlodipine
+anemia
+angioedema
+antiarrhythmic therapy
+anticoagulant
+anxiety
+anxiety disorder
+appendicitis
+arrhythmia
+arthritis
+asthma
+asthmatic
+atorvastatin
+atrial fibrillation
+behcet disease
+beta blocker
+bronchiectasis
+bronchitis
+cad
+cancer
+cardiac patients
+celiac disease
+cerebellar
+cerebrovascular accident
+chf
+chickenpox
+chronic kidney disease
+chronic liver disease
+chronic migraine
+chronic obstructive pulmonary disease
+cirrhosis
+cirrhotic
+ckd
+ckd stage 3
+ckd stage 4
+cold
+congestive heart failure
+copd
+coronary artery disease
+covid
+covid-19
+crohn disease
+cva
+cvd
+deep vein thrombosis
+dengue
+depression
+dermatitis
+dermatomyositis
+diabetes
+diabetic
+diabetic ketoacidosis
+diuretic
+dm
+dm type 2
+dmards
+drug allergy
+eczema
+end stage renal disease
+epilepsy
+epileptic
+esophageal varices
+febrile
+fibromyalgia
+flu
+food poisoning
+gallstones
+gastritis
+gerd
+gout
+heart disease
+heart failure
+hepatic encephalopathy
+hepatitis
+hepatitis b
+high blood pressure
+high bp
+htn
+hyperosmolar hyperglycemic state
+hypertension
+hypertensive
+hyperthyroidism
+hypothyroid
+hypothyroidism
+ibd
+ibs
+ibuprofen
+ihd
+injury
+irritable bowel syndrome
+ischemic heart disease
+jaundice
+kidney disease
+kidney stones
+low blood pressure
+lupus
+malaria
+malignancy
+measles
+meningitis
+metformin
+mi
+migraine
+ms
+multiple sclerosis
+mumps
+myocardial infarction
+nsaids
+oa
+osteoarthritis
+osteoporosis
+osteoporotic
+pancreatitis
+parkinson
+parkinson's disease
+parkinsonian
+pe
+peripheral arterial disease
+pneumonia
+polymyositis
+portal hypertension
+post-gastrectomy
+post-stroke
+ppi
+psoriasis
+psoriatic
+pulmonary embolism
+pulmonary fibrosis
+pvd
+ra
+ra patients
+rheumatoid arthritis
+sarcoidosis
+scleroderma
+sepsis
+sinusitis
+stroke
+tb
+thyroid
+thyroid disorder
+thyroid issues
+tonsillitis
+tuberculosis
+type 2 diabetes
+typhoid
+urinary tract infection
+urticaria
+uti
+vasculitis
+ventricular tachycardia

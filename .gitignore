@@ -67,3 +67,7 @@ add_*.py
 generate_*.py
 complete_*.py
 verify_spans.py
+
+# CSV files (drug database files)
+*.csv
+!drugs_template.csv
